@@ -1,4 +1,4 @@
-![alt text](https://zeesastrous.com/zeeshudlogo.png "zeeshud logo")
+![ZEESHUD](https://zeesastrous.com/zeeshudlogo.png "zeeshud logo")
 LAST UPDATED : **NOV. 2020**
 
 # What is ZeesHUD?
