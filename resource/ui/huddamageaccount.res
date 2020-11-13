@@ -19,7 +19,7 @@
 		"ControlName"		"CExLabel"
 		"fieldName"			"DamageAccountValue"
 		"xpos"				"c-50"
-		"ypos"				"r188"
+		"ypos"				"c10"
 		"zpos"				"2"
 		"wide"				"100"
 		"tall"				"26"
@@ -27,8 +27,8 @@
 		"enabled"			"1"
 		"labelText"			"%metal%"
 		"textAlignment"		"center"
-		"font"				"FUTURA_BOLD_24"
-		"fgcolor"			"ZeesRed"
+		"font"				"FUTURA_BOLD_16"
+		"fgcolor"			"ZeesWhite"
 	}
 
 	"DamageAccountValueShadow"
@@ -44,7 +44,7 @@
 		"enabled"			"1"
 		"labelText"			"%metal%"
 		"textAlignment"		"center"
-		"font"				"FUTURA_BOLD_24"
+		"font"				"FUTURA_BOLD_16"
 		"fgcolor"			"ZeesBlack"
 
 		"pin_to_sibling"		"DamageAccountValue"

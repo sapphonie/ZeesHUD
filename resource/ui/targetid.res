@@ -23,16 +23,16 @@
 		"zpos"				"-1"
 		"visible"			"1"
 		"enabled"			"1"
-		"image"				"replay/thumbnails/box_sq_1"
+		"image"				"replay/thumbnails/box_2_n"
 		"scaleImage"		"1"
-		"teambg_1"			"replay/thumbnails/box_sq_1"
-		"teambg_2"			"replay/thumbnails/box_sq_1"
-		"teambg_3"			"replay/thumbnails/box_sq_1"
-		"alpha"				"150"
-		"src_corner_height"		"128"
-		"src_corner_width"		"128"
-		"draw_corner_width"		"8"
-		"draw_corner_height" 	"8"
+		"teambg_1"			"replay/thumbnails/box_2_n"
+		"teambg_2"			"replay/thumbnails/box_2_r"
+		"teambg_3"			"replay/thumbnails/box_2_b"
+		"alpha"				"255"
+		"src_corner_height"		"2"
+		"src_corner_width"		"2"
+		"draw_corner_width"		"0"
+		"draw_corner_height" 	"0"
 	}
 
 	"TargetIDBG_Spec_Blue"
@@ -77,6 +77,7 @@
 		"enabled"			"1"
 		"labelText"			"%targetname%"
 		"textAlignment"		"west"
+		"fgcolor"			"ZeesWhite"
 	}
 
 	"TargetNameLabelShadow"
@@ -104,9 +105,9 @@
 	{
 		"ControlName"		"Label"
 		"fieldName"			"TargetDataLabel"
-		"font"				"NOKIA_12"
+		"font"				"NOKIA_8"
 		"xpos"				"0"
-		"ypos"				"18"
+		"ypos"				"16"
 		"zpos"				"6"
 		"wide"				"300"
 		"tall"				"15"
@@ -119,7 +120,7 @@
 	"SpectatorGUIHealth"
 	{
 		"ControlName"		"EditablePanel"
-		"fieldName"			"SpectatorGUIHealth"
+		"fieldName"			"FUTURA_BOLD_20"
 		"xpos"				"-2"
 		"ypos"				"-8"
 		"zpos"				"10"
@@ -130,7 +131,7 @@
 		"HealthBonusPosAdj"	"10"
 		"font"				"FUTURA_BOLD_20"
 		"HealthDeathWarning"		"0.49"
-		"TFFont"					"FUTURA_BOLD_16"
+		"TFFont"					"FUTURA_BOLD_20"
 		"HealthDeathWarningColor"	"HUDDeathWarning"
 		"TextColor"					"ZeesWhite"
 	}

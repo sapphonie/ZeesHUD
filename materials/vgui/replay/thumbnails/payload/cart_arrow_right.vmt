@@ -5,4 +5,14 @@
 	"$no_fullbright" 1
 	"$ignorez" 1
 	"$basetexture" "vgui/replay/thumbnails/payload/cart_arrow_right"
+
+	"Proxies"
+	{
+		"AnimatedTexture"
+		{
+			"animatedtexturevar"		"$basetexture"
+			"animatedtextureframenumvar"	"$frame"
+			"animatedtextureframerate" 		"2"
+		}
+	}
 }

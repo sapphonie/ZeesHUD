@@ -4,7 +4,7 @@
 	{
 		"fieldName"		"HudMatchStatus"
 		"avatar_width"	"63"
-		"spacer"		"5"
+		"spacer"		"2"
 		"name_width"	"57"
 		"horiz_inset"	"2"
 	}
@@ -184,13 +184,14 @@
 
 	"RoundCounter"
 	{
+		"ControlName"	"ImagePanel"
 		"fieldName"		"RoundCounter"
 		"xpos"			"cs-0.5"
 		"ypos"			"-2"
 		"zpos"			"1"
 		"wide"			"300"
 		"tall"			"100"
-		"visible"		"1"
+		"visible"		"0"
 		"enabled"		"1"
 	}
 
@@ -268,10 +269,10 @@
 		"delta_item_x"			"22"
 		"delta_item_start_y"	"50"
 		"delta_item_end_y"		"70"
-		"PositiveColor"			"ColorGreen"
-		"NegativeColor"			"ColorRed"
+		"PositiveColor"			"ZeesGreen"
+		"NegativeColor"			"ZeesRed"
 		"delta_lifetime"		"1.5"
-		"delta_item_font"		"HudFontMedium"
+		"delta_item_font"		"FUTURA_BOLD_16"
 
 		if_match
 		{
@@ -281,15 +282,15 @@
 			"PositiveColor"			"ColorGreen"
 			"NegativeColor"			"ColorRed"
 			"delta_lifetime"		"1.5"
-			"delta_item_font"		"HudFontMediumSmall"
+			"delta_item_font"		"FUTURA_BOLD_16"
 		}
 
 		"TimePanelValue"
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TimePanelValue"
-			"font"			"HudFontMediumSmall"
-			"fgcolor"		"TanLight"
+			"font"			"FUTURA_BOLD_16"
+			"fgcolor"		"ZeesWhite"
 			"xpos"			"25"
 			"ypos"			"0"
 			"zpos"			"3"
@@ -305,7 +306,7 @@
 				"xpos"			"cs-0.5"
 				"ypos"			"13"
 				"tall"			"10"
-				"font"			"HudFontSmall"
+				"font"			"FUTURA_BOLD_16"
 				"proportionaltoparent"	"1"
 			}
 		}
@@ -452,8 +453,8 @@
 				"HealthBonusPosAdj"			"10"
 				"HealthDeathWarning"		"0.49"
 				"TFFont"					"HudFontSmallest"
-				"HealthDeathWarningColor"	"HUDDeathWarning"
-				"TextColor"					"HudOffWhite"
+				"HealthDeathWarningColor"	"ZeesRed"
+				"TextColor"					"ZeesWhite"
 			}
 			"ReadyBG"
 			{
@@ -496,8 +497,8 @@
 				"ControlName"	"CExLabel"
 				"fieldName"		"respawntime"
 				"font"			"SMB2_8"
-				"xpos"			"cs-0.5"
-				"ypos"			"0"
+				"xpos"			"cs-0.49"
+				"ypos"			"cs0.1"
 				"zpos"			"5"
 				"wide"			"f0"
 				"tall"			"19"
@@ -549,8 +550,8 @@
 				"xpos"			"cs-0.5"
 				"ypos"			"0"
 				"zpos"			"0"
-				"wide"			"f0"
-				"tall"			"24"
+				"wide"			"14"
+				"tall"			"14"
 				"visible"		"0"
 				"enabled"		"1"
 				"image"			"../HUD/comp_player_status"
@@ -567,7 +568,7 @@
 				"tall"			"p0.15"
 				"visible"		"0"
 				"enabled"		"1"
-				"image"			"../HUD/comp_player_status_skull"
+				"image"			"replay/thumbnails/comp_tab_skull"
 				"scaleImage"	"1"
 				"proportionaltoparent"	"1"
 			}
@@ -665,7 +666,7 @@
 			"tall"			"39"
 			"visible"		"1"
 			"PaintBackgroundType"	"2"
-			"bgcolor_override"		"TextColor"
+			"bgcolor_override"		"ZeesWhite"
 		}
 		"BluePlayerList"
 		{
@@ -743,7 +744,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"border"		"TFFatLineBorderRedBGOpaque"
+			"FGColor"		"ZeesRed"
 		}
 		"RedTeamImage"
 		{

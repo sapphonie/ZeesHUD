@@ -3,73 +3,105 @@ Scheme
 	Fonts
 	{
 		// CUSTOM
+		//steelfish (supporters)
 		
-			// CIKANDEI
-		"CIKANDEI_56"
+		"SupportBig"
 		{
 			"1"
 			{
-				"name"			"CIKANDEI"
+				"name"			"Steelfish Rg"
+				"tall" 		 	"16"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
+		"SupportMedium"
+		{
+			"1"
+			{
+				"name"			"Steelfish Rg"
+				"tall" 		 	"12"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
+		"SupportSmall"
+		{
+			"1"
+			{
+				"name"			"Steelfish Rg"
+				"tall" 		 	"10"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
+		
+			// cikandei
+		"cikandei_56"
+		{
+			"1"
+			{
+				"name"			"cikandei"
 				"tall" 		 	"56"
 				"additive"		"0"
 				"antialias"		"1"
 			}
 		}
-		"CIKANDEI_48"
+		"cikandei_48"
 		{
 			"1"
 			{
-				"name"			"CIKANDEI"
+				"name"			"cikandei"
 				"tall" 		 	"48"
 				"additive"		"0"
 				"antialias"		"1"
 			}
 		}
-		"CIKANDEI_40"
+		"cikandei_40"
 		{
 			"1"
 			{
-				"name"			"CIKANDEI"
+				"name"			"cikandei"
 				"tall" 		 	"40"
 				"additive"		"0"
 				"antialias"		"1"
 			}
 		}
-		"CIKANDEI_36"
+		"cikandei_36"
 		{
 			"1"
 			{
-				"name"			"CIKANDEI"
+				"name"			"cikandei"
 				"tall" 		 	"36"
 				"additive"		"0"
 				"antialias"		"1"
 			}
 		}
-		"CIKANDEI_32"
+		"cikandei_32"
 		{
 			"1"
 			{
-				"name"			"CIKANDEI"
+				"name"			"cikandei"
 				"tall" 		 	"32"
 				"additive"		"0"
 				"antialias"		"1"
 			}
 		}
-		"CIKANDEI_24"
+		"cikandei_24"
 		{
 			"1"
 			{
-				"name"			"CIKANDEI"
+				"name"			"cikandei"
 				"tall" 		 	"24"
 				"additive"		"0"
 				"antialias"		"1"
 			}
 		}
-		"CIKANDEI_16"
+		"cikandei_16"
 		{
 			"1"
 			{
-				"name"			"CIKANDEI"
+				"name"			"cikandei"
 				"tall" 		 	"16"
 				"additive"		"0"
 				"antialias"		"1"
@@ -345,6 +377,46 @@ Scheme
 				"antialias"		"1"
 			}
 		}
+		"FUTURA_BOLD_14"
+		{
+			"1"
+			{
+				"name"			"Futura PT Bold"
+				"tall" 		 	"14"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
+		"FUTURA_BOLD_12"
+		{
+			"1"
+			{
+				"name"			"Futura PT Bold"
+				"tall" 		 	"12"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
+		"FUTURA_BOLD_10"
+		{
+			"1"
+			{
+				"name"			"Futura PT Bold"
+				"tall" 		 	"10"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
+		"FUTURA_BOLD_8"
+		{
+			"1"
+			{
+				"name"			"Futura PT Bold"
+				"tall" 		 	"8"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
 		
 		//RAYS HUD (delete this shit when done)
 		"Cerbetica56"
@@ -474,14 +546,14 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"10"
 				"additive"		"0"
 				"antialias"		"1"
 			}
 			"2"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"12"
 				"range"			"0x0000 0x00FF"
 				"weight"		"800"
@@ -491,7 +563,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"10"
 				"weight"		"900"
 				"range"			"0x0000 0x017F"
@@ -502,7 +574,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"12"
 				"weight"		"500"
 				"underline"		"1"
@@ -510,7 +582,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"11"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"800"
@@ -520,7 +592,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"12"
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
@@ -528,7 +600,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"13"
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
@@ -536,7 +608,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"14"
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
@@ -545,7 +617,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"20"
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
@@ -554,7 +626,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"22"
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
@@ -563,7 +635,7 @@ Scheme
 			}
 			"6"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"12"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"0"
@@ -573,7 +645,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"12"
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
@@ -581,7 +653,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"12"
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
@@ -589,7 +661,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"12"
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
@@ -598,7 +670,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"14"
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
@@ -607,7 +679,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"16"
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
@@ -619,7 +691,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"18"
 				"weight"		"900"
 				"range"			"0x0000 0x017F"
@@ -627,7 +699,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"21"
 				"weight"		"900"
 				"range"			"0x0000 0x017F"
@@ -635,7 +707,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"22"
 				"weight"		"900"
 				"range"			"0x0000 0x017F"
@@ -644,7 +716,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"28"
 				"weight"		"900"
 				"range"			"0x0000 0x017F"
@@ -653,7 +725,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"30"
 				"weight"		"900"
 				"range"			"0x0000 0x017F"
@@ -662,14 +734,14 @@ Scheme
 			}
 			"6"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"20"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"900"
 			}
 			"7"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"20"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"800"
@@ -680,7 +752,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"name"			"Helvetica" [$OSX]
 				"tall"			"18"
 				"weight"		"900"
@@ -693,7 +765,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"6"
 				"weight"		"500"
 				"additive"		"0"
@@ -705,35 +777,35 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"12"
 				"weight"		"700"
 				"yres"			"480 599"
 			}
 			"2"
 			{
-				"name"			"Verdana"
+				"name"			"Futura PT Bold"
 				"tall"			"13"
 				"weight"		"700"
 				"yres"			"600 767"
 			}
 			"3"
 			{
-				"name"			"Verdana"
+				"name"			"Futura PT Bold"
 				"tall"			"14"
 				"weight"		"700"
 				"yres"			"768 1023"
 			}
 			"4"
 			{
-				"name"			"Verdana"
+				"name"			"Futura PT Bold"
 				"tall"			"20"
 				"weight"		"700"
 				"yres"			"1024 1199"
 			}
 			"5"
 			{
-				"name"			"Verdana"
+				"name"			"Futura PT Bold"
 				"tall"			"24"
 				"weight"		"700"
 				"yres"			"1200 10000"
@@ -744,7 +816,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"24"
 				"weight"		"500"
 				"additive"		"0"
@@ -753,7 +825,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"32"
 				"weight"		"500"
 				"additive"		"0"
@@ -762,7 +834,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"44"
 				"weight"		"500"
 				"additive"		"0"
@@ -771,7 +843,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"48"
 				"weight"		"500"
 				"additive"		"0"
@@ -780,7 +852,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"52"
 				"weight"		"500"
 				"additive"		"0"
@@ -792,7 +864,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"44"
 				"weight"		"500"
 				"additive"		"0"
@@ -803,7 +875,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"35"
 				"weight"		"500"
 				"additive"		"0"
@@ -814,7 +886,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"36"
 				"weight"		"500"
 				"additive"		"0"
@@ -825,7 +897,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"30"
 				"weight"		"500"
 				"additive"		"0"
@@ -836,7 +908,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"30"
 				"weight"		"500"
 				"additive"		"0"
@@ -847,7 +919,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"24"
 				"weight"		"500"
 				"additive"		"0"
@@ -858,7 +930,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"20"
 				"weight"		"500"
 				"additive"		"0"
@@ -869,7 +941,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"24"
 				"weight"		"500"
 				"additive"		"0"
@@ -880,7 +952,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"18"
 				"weight"		"500"
 				"additive"		"0"
@@ -891,7 +963,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"18"
 				"weight"		"500"
 				"additive"		"0"
@@ -902,7 +974,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"18"
 				"weight"		"500"
 				"additive"		"0"
@@ -913,7 +985,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"14"
 				"weight"		"500"
 				"additive"		"0"
@@ -924,7 +996,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"16"
 				"weight"		"500"
 				"additive"		"0"
@@ -935,7 +1007,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"14"
 				"weight"		"500"
 				"additive"		"0"
@@ -946,7 +1018,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"14"
 				"weight"		"500"
 				"additive"		"0"
@@ -958,7 +1030,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"12"
 				"weight"		"500"
 				"additive"		"0"
@@ -969,7 +1041,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"12"
 				"weight"		"500"
 				"additive"		"0"
@@ -981,7 +1053,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"12"
 				"weight"		"500"
 				"additive"		"0"
@@ -993,7 +1065,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"6"
 				"weight"		"500"
 				"additive"		"0"
@@ -1005,7 +1077,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"10"
 				"additive"		"0"
 				"antialias"		"1"
@@ -1016,7 +1088,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"16"
 				//"weight"		"500"
 				"additive"		"0"
@@ -1027,7 +1099,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"10"
 				"weight"		"0"
 				"additive"		"0"
@@ -1038,7 +1110,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"10"
 				"weight"		"0"
 				"additive"		"0"
@@ -1049,7 +1121,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"6"
 				"weight"		"0"
 				"additive"		"0"
@@ -1060,7 +1132,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"12"
 				"weight"		"400"
 				"additive"		"0"
@@ -1072,7 +1144,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"12"
 				"weight"		"500"
 				"additive"		"0"
@@ -1144,7 +1216,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"18"
 				"weight"		"500"
 				"additive"		"0"
@@ -1156,7 +1228,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"16"
 				"weight"		"500"
 				"additive"		"0"
@@ -1214,7 +1286,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"15"
 				"weight"		"700"
 				"antialias" 	"1"
@@ -1224,7 +1296,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"15"
 				"weight"		"700"
 				"antialias" 	"1"
@@ -1234,7 +1306,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"18"
 				"weight"		"900"
 				"antialias" 	"1"
@@ -1243,7 +1315,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"21"
 				"weight"		"900"
 				"antialias" 	"1"
@@ -1252,7 +1324,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"24"
 				"weight"		"1000"
 				"antialias" 	"1"
@@ -1334,7 +1406,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"24"
 				"antialias" 	"1"
 				"weight"		"500"
@@ -1345,7 +1417,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"24"
 				"antialias" 	"1"
 				"weight"		"500"
@@ -1357,7 +1429,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"24"
 				"antialias" 	"1"
 				"weight"		"900"
@@ -1368,7 +1440,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"24"
 				"antialias" 	"1"
 				"weight"		"900"
@@ -1380,7 +1452,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"16"
 				"antialias" 	"1"
 				"weight"		"900"
@@ -1415,7 +1487,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"24"
 				"antialias" 	"1"
 				"weight"		"500"
@@ -1425,7 +1497,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"12"
 				"antialias" 	"1"
 				"weight"		"500"
@@ -1435,7 +1507,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"12"
 				"antialias" 	"1"
 				"weight"		"500"
@@ -1458,7 +1530,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"28"
 				"antialias"		"1"
 				"custom"		"1" [$OSX]
@@ -1469,7 +1541,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"40"
 				"antialias"		"1"
 				"custom"		"1" [$OSX]
@@ -1504,7 +1576,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Verdana"
+				"name"			"Futura PT Bold"
 				"tall"			"6"
 				"weight"		"400"
 				"additive"		"0"
@@ -1515,7 +1587,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"10"
 				"weight"		"400"
 				"additive"		"0"
@@ -1526,7 +1598,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"10"
 				"weight"		"400"
 				"additive"		"0"
@@ -1537,7 +1609,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"10"
 				"weight"		"500"
 				"range"			"0x0000 0x007F"
@@ -1549,7 +1621,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"20"
 				"weight"		"500"
 				"range"			"0x0000 0x007F"
@@ -1561,7 +1633,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"20"
 				"weight"		"500"
 				"range"			"0x0000 0x007F"
@@ -1573,7 +1645,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"14"
 				"weight"		"500"
 				"range"			"0x0000 0x007F"
@@ -1585,7 +1657,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"14"
 				"weight"		"500"
 				"range"			"0x0000 0x007F"
@@ -1597,7 +1669,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"34"
 				"weight"		"500"
 				"range"			"0x0000 0x007F"
@@ -1620,7 +1692,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"52"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"400"
@@ -1629,7 +1701,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"72"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"400"
@@ -1638,7 +1710,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"100"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"400"
@@ -1647,7 +1719,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"140"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"400"
@@ -1656,7 +1728,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"180"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"400"
@@ -1669,7 +1741,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"36"
 				"weight"		"500"
 				"range"			"0x0000 0x007F"
@@ -1681,7 +1753,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"14"
 				"weight"		"400"
 				"additive"		"0"
@@ -1692,7 +1764,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"20"
 				"weight"		"400"
 				"additive"		"0"
@@ -1704,7 +1776,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"14"
 				"weight"		"400"
 				"additive"		"0"
@@ -1716,7 +1788,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"10"
 				"weight"		"400"
 				"additive"		"0"
@@ -1727,7 +1799,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"7"
 				"weight"		"400"
 				"additive"		"0"
@@ -1739,7 +1811,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"10"
 				"weight"		"400"
 				"additive"		"0"
@@ -1893,7 +1965,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"14"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"300"
@@ -1905,7 +1977,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"12"
 				"weight"		"500"
 				"range"			"0x0000 0x017F"
@@ -1917,7 +1989,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"10"
 				"weight"		"500"
 				"range"			"0x0000 0x017F"
@@ -1966,7 +2038,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"36"
 				"weight"		"500"
 			}
@@ -1975,7 +2047,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"30"
 				"weight"		"500"
 			}
@@ -1984,7 +2056,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"28"
 				"weight"		"500"
 			}
@@ -1993,7 +2065,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"22"
 				"weight"		"900"
 			}
@@ -2002,7 +2074,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"18"
 				"weight"		"900"
 			}
@@ -2011,7 +2083,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"22"
 				"weight"		"500"
 			}
@@ -2020,7 +2092,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"18"
 				"weight"		"500"
 			}
@@ -2058,7 +2130,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"36"
 				"weight"		"500"
 				"additive"		"0"
@@ -2069,7 +2141,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"12"
 				"weight"		"600"
 				"additive"		"0"
@@ -2081,7 +2153,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"18"
 				"weight"		"400"
 				"additive"		"0"
@@ -2093,7 +2165,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"14"
 				"weight"		"900"
 				"antialias" 	"1"
@@ -2127,7 +2199,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"10"
 				"weight"		"400"
 				"additive"		"0"
@@ -2171,7 +2243,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"10"
 				"weight"		"500"
 				"additive"		"0"
@@ -2182,7 +2254,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"12"
 				"weight"		"500"
 				"additive"		"0"
@@ -2193,7 +2265,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"14"
 				"weight"		"500"
 				"additive"		"0"
@@ -2204,7 +2276,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"18"
 				"weight"		"500"
 				"additive"		"0"
@@ -2215,7 +2287,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"10"
 				"weight"		"500"
 				"additive"		"0"
@@ -2226,7 +2298,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"10"
 				"antialias"		"1"
 				"weight"		"500"
@@ -2236,7 +2308,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"10"
 				"weight"		"500"
 				"additive"		"0"
@@ -2247,7 +2319,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"12"
 				"weight"		"500"
 				"additive"		"0"
@@ -2258,7 +2330,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"14"
 				"weight"		"500"
 				"additive"		"0"
@@ -2270,7 +2342,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"10"
 				"weight"		"500"
 				"additive"		"0"
@@ -2281,7 +2353,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"10"
 				"weight"		"500"
 				"blur"			"3"
@@ -2293,7 +2365,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"10"
 				"weight"		"0"
 				"additive"		"1"
@@ -2652,7 +2724,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"12"
 				"weight"		"500"
 				"additive"		"0"
@@ -3058,7 +3130,7 @@ Scheme
 		"10"
 		{
 			"font"	"resource/fonts/cikandei.tff"
-			"name"	"CIKANDEI"
+			"name"	"cikandei"
 		}
 		"11"
 		{
@@ -3084,6 +3156,11 @@ Scheme
 		{
 			"font"	"resource/fonts/Futura PT Medium.otf"
 			"name"	"Futura PT Medium"
+		}
+		"16"
+		{
+			"font"	"resource/fonts/steelfish rg.ttf"
+			"name"	"Steelfish Rg"
 		}
 	}
 }

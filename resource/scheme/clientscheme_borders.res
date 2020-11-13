@@ -9,7 +9,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorCyan"
+					"color" "ZeesRed"
 					"offset" "0 0"
 				}
 			}
@@ -17,7 +17,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorCyan"
+					"color" "ZeesRed"
 					"offset" "0 0"
 				}
 			}
@@ -25,7 +25,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorCyan"
+					"color" "ZeesRed"
 					"offset" "0 0"
 				}
 			}
@@ -33,7 +33,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorCyan"
+					"color" "ZeesRed"
 					"offset" "0 0"
 				}
 			}
@@ -79,17 +79,17 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorCyan"
+					"color" "ZeesRed"
 					"offset" "0 0"
 				}
 				"2"
 				{
-					"color" "ColorCyan"
+					"color" "ZeesRed"
 					"offset" "0 1"
 				}
 				"3"
 				{
-					"color" "ColorCyan"
+					"color" "ZeesRed"
 					"offset" "1 1"
 				}
 			}
