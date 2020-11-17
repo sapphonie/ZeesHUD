@@ -7,3 +7,10 @@ ZeesHUD is a work-in-progress stylish and ambitious HUD project for Team Fortres
 
 **[Author's Website](https://zeesastrous.com)** // 
 **[YouTube](https://youtube.com/Zeesastrous)**
+
+# Credits
+
+**[Mogs](https://twitter.com/Meii_ma)** - Character Art
+**[MrLight](https://twitter.com/_MrLight)** - Backgrounds
+**[winkree](https://twitter.com/winkree)** - Backgrounds
+**[Zeesastrous](https://twitter.com/zstrs_arts)** - HUD Magic
