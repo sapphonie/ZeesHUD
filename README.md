@@ -1,15 +1,19 @@
 ![ZEESHUD](https://zeesastrous.com/zeeshudlogo.png "zeeshud logo")
-LAST UPDATED : **NOV. 2020**
+**LAST UPDATED :** 16 NOV. 2020
+**CURRENT RELEASE VERSION :** ALPHA I
 
 # What is ZeesHUD?
-A stylish and ambitious TF2 HUD project.
+ZeesHUD is a work-in-progress stylish and ambitious HUD project for Team Fortress 2. The full first release will feature customization options, 
 
-**[Author's Website](https://zeesastrous.com)** 
+**[Author's Website](https://zeesastrous.com)** // 
 **[YouTube](https://youtube.com/Zeesastrous)**
 
-# Known Bugs list
+# Credits
 
-| Bug                  | Fixable?      | Reason    |
-| -------------         |:-------------:|:-----     |
-| artifacts on certain pictures| no | due to how rendering works in source engine, these artifacts are pretty much impossibleto remove      |
-| custom health picture not working | no? |the client makes sure that the file is still the same whenever you join a sv_pure 1+ server, so using the preload tactic won't work |
+**[Mogs](https://twitter.com/Meii_ma)** - Character Art
+
+**[MrLight](https://twitter.com/_MrLight)** - Backgrounds
+
+**[winkree](https://twitter.com/winkree)** - Backgrounds
+
+**[Zeesastrous](https://twitter.com/zstrs_arts)** - HUD Magic
