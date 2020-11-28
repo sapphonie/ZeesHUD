@@ -5,10 +5,20 @@ Scheme
 		//ZEESHUD
 		//---------------------------------------------
 		"ZeesRed"					"255 0 90 255"
+		"ZeesDarkRed"				"133 7 51 255"
+		"ZeesDarkerRed"				"71 9 31 255"
 		
 		"ZeesBlue"					"0 164 255 255"
+		"ZeesDarkBlue"				"7 86 133 255"
+		"ZeesDarkerBlue"			"9 48 71 255"
 		
 		"ZeesGreen"					"0 255 164 255"
+		"ZeesDarkGreen"				"7 133 89 255"
+		"ZeesDarkerGreen"			"9 71 49 255"
+		
+		"ZeesYellow"				"255 214 0 255"
+		"ZeesDarkYellow"			"133 114 7 255"
+		"ZeesDarkerYellow"			"71 61 9 255"
 		
 		"ZeesHealth"				"255 255 255 255"
 		"ZeesHealthBuff"			"48 255 164 255"
@@ -19,7 +29,8 @@ Scheme
 		
 		"ZeesWhite"					"255 255 255 255"
 		"ZeesBlack"					"0 0 0 255"
-		"ZeesDarkGray"				"50 50 50 255"
+		"ZeesDarkGray"				"42 43 47 255"
+		"ZeesGray"					"120 122 131 255"
 		//---------------------------------------------
 		// HUD COLORS
 		//---------------------------------------------
@@ -83,11 +94,11 @@ Scheme
 		//---------------------------------------------
 		// DEFAULT COLORS
 		//---------------------------------------------
-		"Orange"								"ColorCyan"
-		"OrangeDim"								"ColorCyan"
+		"Orange"								"ZeesRed"
+		"OrangeDim"								"ZeesRed"
 		"LightOrange"							"188 112 0 128"
 		"GoalOrange"							"255 133 0 255"
-		"TFOrange"								"145 73 59 255"
+		"TFOrange"								"ZeesRed"
 		"Purple"								"137 69 99 255"
 
 		"HalloweenThemeColor2015_Light"			"238 126 17 255"
@@ -108,11 +119,11 @@ Scheme
 		"PartyMember5"							"255 118 108 255"
 		"PartyMember6"							"255 133 255 255"
 
-		"White"									"242 242 242 255"
-		"Red"									"158 64 61 140"
-		"RedSolid"								"158 64 61 255"
-		"Blue"									"72 112 125 140"
-		"BlueSolid"								"72 112 125 255"
+		"White"									"255 255 255 255"
+		"Red"									"255 0 90 140"
+		"RedSolid"								"255 0 90 255"
+		"Blue"									"0 255 164 140"
+		"BlueSolid"								"0 255 164 255"
 		"Yellow"								"251 235 202 255"
 		"TransparentYellow"						"251 235 202 140"
 		"BrightYellow"							"251 235 0 255"
@@ -151,24 +162,24 @@ Scheme
 		"HudProgressBarActiveLow"				"240 30 30 255"
 		"HudProgressBarInActiveLow"				"240 30 30 99"
 
-		"HudTimerProgressActive"				"251 235 202 255"
-		"HudTimerProgressInActive"				"52 48 45 255"
-		"HudTimerProgressWarning"				"240 30 30 255"
+		"HudTimerProgressActive"				"ZeesWhite"
+		"HudTimerProgressInActive"				"ZeesGray"
+		"HudTimerProgressWarning"				"ZeesRed"
 
 		// Training
 		"HudTrainingHint"						"212 160 23 255"
 
-		"TanDark"								"117 107 94 255"
-		"TanLight"								"235 226 202 255"
-		"TanDarker"								"46 43 42 255"
+		"TanDark"								"ZeesGray"
+		"TanLight"								"255 255 255 255"
+		"TanDarker"								"ZeesDarkGray"
 
-		"StoreDarkTan"							"131 121 104 255"
+		"StoreDarkTan"							"103 97 110 255"
 		"StoreGreen"							"76 107 34 255"
 
 		// Building HUD Specific
 		"LowHealthRed"							"255 0 0 255"
-		"ProgressOffWhite"						"0 0 200 255"
-		"ProgressBackground"					"0 0 0 51"
+		"ProgressOffWhite"						"0 0 255 255"
+		"ProgressBackground"					"0 0 0 100"
 		"HealthBgGrey"							"72 71 69 255"
 
 		"LabelDark"								"48 43 42 255"

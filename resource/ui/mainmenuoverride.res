@@ -138,7 +138,7 @@
 		"noitem_textcolor"		"255 0 90 255"
 		"PaintBackgroundType"	"2"
 		"paintborder"	"1"
-		"border"		"MainMenuBGBorder"
+
 
 		"text_ypos"			"20"
 		"text_center"		"1"
@@ -380,10 +380,10 @@
 		"ypos"					"0"
 		"zpos"					"10000"
 		"wide"					"150"
-		"tall"					"50"
+		"tall"					"30"
 		"visible"				"0"
-		"PaintBackgroundType"	"2"
-		"border"				"CyanBorderThick"
+		"PaintBackgroundType"	"1"
+		"border"				"ZeesBorderWhite"
 
 		"TipSubLabel"
 		{
@@ -396,12 +396,11 @@
 			"ypos"			"0"
 			"zpos"			"2"
 			"wide"			"250"
-			"tall"			"50"
+			"tall"			"30"
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fillcolor"		"DarkGrey"
 			"wrap"			"1"
 		}
 
@@ -1112,12 +1111,12 @@
 		"fieldname"		"FriendsContainer"
 		"xpos"			"40"
 		"ypos"			"260"
-		"zpos"			"150"
+		"zpos"			"20"
 		"wide"			"260"
 		"tall"			"110"
 		"visible"		"1"
 		"border"			"NoBorder"
-		"bgcolor_override"	"ZeesBlack"
+		"bgcolor_override"	"Blank"
 
 		"TitleLabel"
 		{
@@ -1300,8 +1299,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldname"		"IconAnchor"
-		"xpos"			"c-60"
-		"ypos"			"c72"
+		"xpos"			"330"
+		"ypos"			"180"
 		"wide"			"0"
 		"tall"			"0"
 		"visible"		"1"
@@ -1375,8 +1374,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldname"		"ConsoleButton"
-		"xpos"		"20"
-		"ypos"		"0"
+		"xpos"		"0"
+		"ypos"		"-20"
 		"zpos"		"12"
 		"wide"			"20"
 		"tall"			"20"
@@ -1437,7 +1436,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldname"		"ReplayButton"
 		"xpos"			"0"
-		"ypos"			"-20"
+		"ypos"			"-40"
 		"zpos"			"12"
 		"wide"			"20"
 		"tall"			"20"
@@ -1498,8 +1497,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldname"		"ReportBugButton"
-		"xpos"			"20"
-		"ypos"			"-20"
+		"xpos"			"0"
+		"ypos"			"-60"
 		"zpos"			"12"
 		"wide"			"20"
 		"tall"			"20"
@@ -1561,7 +1560,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldname"		"CoachPlayersButton"
 		"xpos"			"0"
-		"ypos"			"-40"
+		"ypos"			"-80"
 		"zpos"			"12"
 		"wide"			"20"
 		"tall"			"20"
@@ -1622,8 +1621,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldname"		"RequestCoachButton"
-		"xpos"			"20"
-		"ypos"			"-40"
+		"xpos"			"0"
+		"ypos"			"-100"
 		"zpos"			"12"
 		"wide"			"20"
 		"tall"			"20"
@@ -1685,7 +1684,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldname"		"CallVoteButton"
 		"xpos"			"0"
-		"ypos"			"-60"
+		"ypos"			"-120"
 		"zpos"			"12"
 		"wide"			"20"
 		"tall"			"20"
@@ -1746,8 +1745,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldname"		"MutePlayersButton"
-		"xpos"			"20"
-		"ypos"			"-60"
+		"xpos"			"0"
+		"ypos"			"-140"
 		"zpos"			"12"
 		"wide"			"20"
 		"tall"			"20"
@@ -1808,8 +1807,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldname"		"ReportPlayerButton"
-		"xpos"			"20"
-		"ypos"			"-80"
+		"xpos"			"0"
+		"ypos"			"-160"
 		"zpos"			"12"
 		"wide"			"20"
 		"tall"			"20"
@@ -1866,12 +1865,24 @@
 		}
 	}
 	
+	
+	"ButtonAnchor"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldname"		"ButtonAnchor"
+		"xpos"			"390"
+		"ypos"			"c-88"
+		"wide"			"0"
+		"tall"			"0"
+		"visible"		"1"
+	
+	}
 	"CharacterSetupButton"
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"CharacterSetupButton"
-		"xpos"		"c-60"
-		"ypos"		"c-88"
+		"xpos"		"5"
+		"ypos"		"0"
 		"wide"		"120"
 		"tall"		"44"
 		"visible"		"1"
@@ -1885,9 +1896,12 @@
 		"textinsetx"	"25"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
+		
+		"image_default"		"replay/thumbnails/menu/button_items_u"
+		"image_armed"		"replay/thumbnails/menu/button_items_s"
 
 		"border_default"	""
-		"border_armed"		"MainMenuTabs"
+		"border_armed"		""
 
 		"defaultFgColor_override" 	"TanLight"
 		"armedFgColor_override" 	"ColorCyan"
@@ -1909,7 +1923,14 @@
 				"enabled"		"1"
 				"scaleImage"	"1"
 				"image"			"replay/thumbnails/menu/button_items_u"
+				
+				"image_default"		"replay/thumbnails/menu/button_items_u"
+				"image_armed"		"replay/thumbnails/menu/button_items_s"
 			}
+			
+		"pin_to_sibling" "ButtonAnchor"
+		"pin_corner_to_sibling" "PIN_TOPLEFT"
+		"pin_to_sibling_corner" "PIN_TOPLEFT"
 		
 	}
 	
@@ -1917,8 +1938,8 @@
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"GeneralStoreButton"
-		"xpos"		"c-50"
-		"ypos"		"c-44"
+		"xpos"		"21"
+		"ypos"		"-44"
 		"wide"		"120"
 		"tall"		"44"
 		"visible"		"1"
@@ -1933,8 +1954,11 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 
+		"image_default"		"replay/thumbnails/menu/button_store"
+		"image_armed"		"replay/thumbnails/menu/button_store_s"
+		
 		"border_default"	""
-		"border_armed"		"MainMenuTabs"
+		"border_armed"		""
 
 		"defaultFgColor_override" 	"TanLight"
 		"armedFgColor_override" 	"ColorCyan"
@@ -1956,7 +1980,14 @@
 				"enabled"		"1"
 				"scaleImage"	"1"
 				"image"			"replay/thumbnails/menu/button_store"
+				
+				"image_default"		"replay/thumbnails/menu/button_store"
+				"image_armed"		"replay/thumbnails/menu/button_store_s"
 			}
+			
+			"pin_to_sibling" "ButtonAnchor"
+		"pin_corner_to_sibling" "PIN_TOPLEFT"
+		"pin_to_sibling_corner" "PIN_TOPLEFT"
 		
 	}
 	
@@ -1964,8 +1995,8 @@
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"SettingsButton"
-		"xpos"		"c-68"
-		"ypos"		"c0"
+		"xpos"		"6"
+		"ypos"		"-88"
 		"wide"		"120"
 		"tall"		"44"
 		"visible"		"1"
@@ -1980,15 +2011,17 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 		
+		"image_default"		"replay/thumbnails/menu/button_options"
+		"image_armed"		"replay/thumbnails/menu/button_options_s"
 
 		"border_default"	""
-		"border_armed"		"MainMenuTabs"
+		"border_armed"		""
 
-		"defaultFgColor_override" 	"TanLight"
-		"armedFgColor_override" 	"ColorCyan"
+		"defaultFgColor_override" 	"ZeesWhite"
+		"armedFgColor_override" 	"ZeesRed"
 
 		"defaultBgColor_override" 	"Transparent"
-		"armedBgColor_override" 	"25 25 25 148"
+		"armedBgColor_override" 	"25 25 25 0"
 		
 		
 			"SubImage"
@@ -2004,7 +2037,13 @@
 				"enabled"		"1"
 				"scaleImage"	"1"
 				"image"			"replay/thumbnails/menu/button_options"
+				"image_default"		"replay/thumbnails/menu/button_options"
+				"image_armed"		"replay/thumbnails/menu/button_options_s"
 			}
+			
+			"pin_to_sibling" "ButtonAnchor"
+		"pin_corner_to_sibling" "PIN_TOPLEFT"
+		"pin_to_sibling_corner" "PIN_TOPLEFT"
 		
 	}
 	
@@ -2012,8 +2051,8 @@
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"TF2SettingsButton"
-		"xpos"		"c48"
-		"ypos"		"c22"
+		"xpos"		"-112"
+		"ypos"		"-102"
 		"zpos"		"3"
 		"wide"		"22"
 		"tall"		"22"
@@ -2030,8 +2069,11 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 
+		"image_default"		"replay/thumbnails/menu/button_plus"
+		"image_armed"		"replay/thumbnails/menu/button_plus_s"
+
 		"border_default"	""
-		"border_armed"		"MainMenuTabs"
+		"border_armed"		""
 
 		"defaultFgColor_override" 	"TanLight"
 		"armedFgColor_override" 	"ColorCyan"
@@ -2054,6 +2096,10 @@
 				"scaleImage"	"1"
 				"image"			"replay/thumbnails/menu/button_plus"
 			}
+			
+			"pin_to_sibling" "ButtonAnchor"
+		"pin_corner_to_sibling" "PIN_TOPLEFT"
+		"pin_to_sibling_corner" "PIN_TOPLEFT"
 		
 	}
 	
@@ -2062,8 +2108,8 @@
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"SteamWorkshopButton"
-		"xpos"		"c-54"
-		"ypos"		"c44"
+		"xpos"		"-1"
+		"ypos"		"-128"
 		"wide"		"100"
 		"tall"		"25"
 		"visible"		"1"
@@ -2079,8 +2125,6 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 
-		"border_default"	""
-		"border_armed"		"MainMenuTabs"
 
 		"defaultFgColor_override" 	"TanLight"
 		"armedFgColor_override" 	"ColorCyan"
@@ -2103,6 +2147,10 @@
 				"scaleImage"	"1"
 				"image"			"replay/thumbnails/menu/button_workshop"
 			}
+			
+			"pin_to_sibling" "ButtonAnchor"
+		"pin_corner_to_sibling" "PIN_TOPLEFT"
+		"pin_to_sibling_corner" "PIN_TOPLEFT"
 		
 	}
 	
@@ -2179,7 +2227,7 @@
 		"fieldName"		"SupportLabelTop"
 		"font"			"FUTURA_BOLD_10"
 		"labelText"		"ZeesHUD is a Work-in-progress, some elements may differ from the final result."
-		"xpos"			"r418"
+		"xpos"			"r360"
 		"ypos"			"r84"
 		"wide"			"360"
 		"tall"			"30"
@@ -2187,7 +2235,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"textAlignment"	"west"
+		"textAlignment"	"east"
 		"fgcolor_override"	"ZeesWhite"
 	}
 	"SupportLabelBottom"
@@ -2196,7 +2244,7 @@
 		"fieldName"		"SupportLabelTop"
 		"font"			"FUTURA_BOLD_10"
 		"labelText"		"This HUD is available for free. Consider supporting the project! paypal.me/zeesastrous"
-		"xpos"			"r418"
+		"xpos"			"r360"
 		"ypos"			"r76"
 		"wide"			"360"
 		"tall"			"30"
@@ -2204,7 +2252,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"textAlignment"	"west"
+		"textAlignment"	"east"
 		"fgcolor_override"	"ZeesWhite"
 	}
 	
@@ -2212,8 +2260,10 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldname"		"SupportAnchor"
-		"xpos"			"r142"
-		"ypos"			"r145"
+		//"xpos"			"r142"
+		//"ypos"			"r145"
+		"xpos"			"9999"
+		"ypos"			"9999"
 		"wide"			"0"
 		"tall"			"0"
 		"visible"		"1"

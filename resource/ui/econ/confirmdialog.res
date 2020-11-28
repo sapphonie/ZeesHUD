@@ -80,6 +80,8 @@
 		"Command"				"cancel"
 		"sound_depressed"		"UI/buttonclick.wav"
 		"sound_released"		"UI/buttonclickrelease.wav"
+		"bgcolor_override"		"ZeesRed"
+		"fgcolor_override"		"ZeesBlack"
 	}
 
 	"ConfirmButton"
@@ -106,5 +108,7 @@
 		"Command"				"confirm"
 		"sound_depressed"		"UI/buttonclick.wav"
 		"sound_released"		"UI/buttonclickrelease.wav"
+		"bgcolor_override"		"ZeesRed"
+		"fgcolor_override"		"ZeesBlack"
 	}
 }

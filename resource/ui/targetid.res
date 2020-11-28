@@ -23,16 +23,16 @@
 		"zpos"				"-1"
 		"visible"			"1"
 		"enabled"			"1"
-		"image"				"replay/thumbnails/box_2_n"
+		"image"				"replay/thumbnails/box_3_n"
 		"scaleImage"		"1"
-		"teambg_1"			"replay/thumbnails/box_2_n"
-		"teambg_2"			"replay/thumbnails/box_2_r"
-		"teambg_3"			"replay/thumbnails/box_2_b"
+		"teambg_1"			"replay/thumbnails/box_3_n"
+		"teambg_2"			"replay/thumbnails/box_3_r"
+		"teambg_3"			"replay/thumbnails/box_3_b"
 		"alpha"				"255"
-		"src_corner_height"		"2"
-		"src_corner_width"		"2"
-		"draw_corner_width"		"0"
-		"draw_corner_height" 	"0"
+		"src_corner_height"		"23"
+		"src_corner_width"		"23"
+		"draw_corner_width"		"4"
+		"draw_corner_height" 	"4"
 	}
 
 	"TargetIDBG_Spec_Blue"
@@ -46,7 +46,7 @@
 		"tall"	 			"5"
 		"visible"			"0"
 		"enabled"			"1"
-		"fillcolor"			"72 112 125 255"
+		"fillcolor"			"ZeesBlue"
 	}
 
 	"TargetIDBG_Spec_Red"
@@ -60,7 +60,7 @@
 		"tall"	 			"5"
 		"visible"			"0"
 		"enabled"			"1"
-		"fillcolor"			"158 64 61 255"
+		"fillcolor"			"ZeesRed"
 	}
 
 	"TargetNameLabel"

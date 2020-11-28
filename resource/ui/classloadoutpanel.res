@@ -14,7 +14,7 @@
 		"tabPosition"	"0"
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
-		"bgcolor_override"				"DarkGrey"
+		"bgcolor_override"				"ZeesBlack"
 		"infocus_bgcolor_override"		"DarkGrey"
 		"outoffocus_bgcolor_override"	"DarkGrey"
 
@@ -260,7 +260,7 @@
 		"enabled"		"1"
 		"labelText"		""
 		"textAlignment"	"south"
-		"fgcolor"		"75 255 75 255"
+		"fgcolor"		"ZeesGreen"
 		"centerwrap"	"1"
 	}
 
@@ -276,6 +276,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"
+		"defaultBgColor_override"		"ZeesDarkGray"
 		"paintbackground"	"0"
 	}
 
@@ -300,7 +301,7 @@
 		"tall"			"75"
 		"autoResize"	"1"
 		"visible"		"0"
-		"bgcolor_override"		"DarkerGrey"
+		"defaultBgColor_override"		"ZeesDarkGray"
 		"PaintBackgroundType"	"0"
 	}
 
@@ -327,12 +328,13 @@
 		"tabPosition"		"0"
 		"labelText"			"R"
 		"textAlignment"		"center"
-		"font"				"Cerbetica28"
+		"font"				"FUTURA_BOLD_24"
 		"scaleImage"		"1"
 		"command"			"sv_cheats 1;r_skin 0"
 
-		"defaultFgColor_override"	"180 92 77 127"
-		"armedFgColor_override"		"180 92 77 127"
+		"defaultFgColor_override"	"ZeesRed"
+		"armedFgColor_override"		"ZeesDarkRed"
+		"defaultBgColor_override"		"ZeesDarkGray"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -356,12 +358,13 @@
 		"tabPosition"		"0"
 		"labelText"			"B"
 		"textAlignment"		"center"
-		"font"				"Cerbetica28"
+		"font"				"FUTURA_BOLD_24"
 		"scaleImage"		"1"
 		"command"			"sv_cheats 1;r_skin 1"
 
-		"defaultFgColor_override"	"104 124 155 127"
-		"armedFgColor_override"		"104 124 155 127"
+		"defaultFgColor_override"	"ZeesBlue"
+		"armedFgColor_override"		"ZeesDarkBlue"
+		"defaultBgColor_override"		"ZeesDarkGray"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -391,6 +394,8 @@
 		"Command"		"characterloadout"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
+		
+		"defaultBgColor_override"		"ZeesDarkGray"
 
 		"SubImage"
 		{
@@ -429,6 +434,8 @@
 		"Command"		"tauntloadout"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
+		
+		"defaultBgColor_override"		"ZeesDarkGray"
 
 		"SubImage"
 		{

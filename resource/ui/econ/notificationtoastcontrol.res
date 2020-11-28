@@ -87,7 +87,7 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 		"Command"			"trigger"
-		"armedBgColor_override"	"CreditsGreen"
+		"armedBgColor_override"	"ZeesGreen"
 
 		"SubImage"
 		{
@@ -132,7 +132,7 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 		"Command"			"accept"
-		"armedBgColor_override"	"CreditsGreen"
+		"armedBgColor_override"	"ZeesGreen"
 
 		"SubImage"
 		{

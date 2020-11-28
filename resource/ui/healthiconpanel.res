@@ -10,7 +10,7 @@
 		"tall"			"48"
 		"visible"		"1"
 		"enabled"		"1"
-		"TFFont"		"HudFontSmall"
+		"TFFont"		"FUTURA_BOLD_24"
 		"TextColor"		"HudOffWhite"
 		"autoResize"	"1"
 	}
@@ -25,7 +25,7 @@
 		"tall"			"128"
 		"visible"		"1"
 		"enabled"		"1"
-		"TFFont"		"HudFontSmall"
+		"TFFont"		"FUTURA_BOLD_24"
 		"TextColor"		"HudOffWhite"
 		"autoResize"	"1"
 	}

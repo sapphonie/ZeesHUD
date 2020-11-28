@@ -1,48 +1,5 @@
 "Resource/HudLayout.res"
 {
-	//--------------------------------------------------------------
-	// HUD CROSSHAIR
-	//--------------------------------------------------------------
-	// Set visible and enabled to 1 to use.
-	// Change xpos and ypos values if not perfectly centered.
-	// Change labelText to the corresponding crosshair in TF2Crosshairs.png.
-	//--------------------------------------------------------------
-	CustomCrosshair
-	{
-		"visible"			"0"
-		"enabled"			"0"
-		"labelText"			"<"
-		"controlName"		"CExLabel"
-		"fieldName"			"CustomCrosshair"
-		"zpos"				"2"
-		"xpos"				"c-50"
-		"ypos"				"c-49"
-		"wide"				"100"
-		"tall"				"100"
-		"font"				"Size:18 | Outline:OFF"
-		"textAlignment"		"center"
-		"fgcolor"			"Crosshair"
-	}
-	//--------------------------------------------------------------
-	// TRANSPARENT VIEWMODEL
-	//--------------------------------------------------------------
-	// Set visible/enabled to 1 to use.
-	//--------------------------------------------------------------
-	"TransparentViewmodel"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"			"TransparentViewmodel"
-		"xpos"				"0"
-		"ypos"				"0"
-		"zpos"				"-100"
-		"wide"				"f0"
-		"tall"				"480"
-		"visible"			"0"
-		"enabled"			"0"
-		"image"				"replay/thumbnails/transparent"
-		"scaleImage"		"1"
-	}
-	//--------------------------------------------------------------
 
 	HudPlayerStatus
 	{
@@ -229,17 +186,14 @@
 	CHealthAccountPanel
 	{
 		"fieldName"				"CHealthAccountPanel"
-		"xpos"					"c-280"
-		"ypos"					"c45"
+		"xpos"					"120"
+		"ypos"					"r165"
 		"wide"					"250"
 		"tall"  				"120"
-		"xpos_minmode"			"c-100"
-		"ypos_minmode"			"c5"
-		"wide_minmode"			"f0"
-		"tall_minmode"			"480"
 		"visible" 				"1"
 		"enabled" 				"1"
 		"PaintBackgroundType"	"2"
+		"font"					"CIKANDEI_36"
 	}
 
 	CDamageAccountPanel
@@ -321,7 +275,7 @@
 		"visible"				"1"
 		"enabled"				"1"
 		"xpos"					"-10"
-		"ypos"					"c-80"
+		"ypos"					"0"
 		"wide"					"640"
 		"tall"					"480"
 		"PaintBackgroundType"	"2"
@@ -469,19 +423,19 @@
 		"ypos"	 				"22"
 		"wide"	 				"580"
 		"tall"	 				"468"
-		"MaxDeathNotices" 		"5"
+		"MaxDeathNotices" 		"7"
 		"IconScale"				"0.35"
 		"LineHeight"			"14"
 		"LineSpacing"			"0"
-		"CornerRadius"			"2"
+		"CornerRadius"			"0"
 		"RightJustify"			"1"
 		"TextFont"				"HudFontSmallest"
-		"TeamBlue"				"HUDBlueTeamSolid"
-		"TeamRed"				"HUDRedTeamSolid"
-		"IconColor"				"HudWhite"
+		"TeamBlue"				"ZeesBlue"
+		"TeamRed"				"ZeesRed"
+		"IconColor"				"ZeesRed"
 		"LocalPlayerColor"		"65 65 65 255"
 		"BaseBackgroundColor"	"TransparentBlack"
-		"LocalBackgroundColor"	"245 229 196 200"
+		"LocalBackgroundColor"	"ZeesWhite"
 	}
 
 	HudVehicle
@@ -921,8 +875,8 @@
 		"visible" 			"1"
 		"enabled" 			"1"
 		"xpos"				"10"
-		"ypos"				"275"
-		"wide"	 			"320"
+		"ypos"				"c-60"
+		"wide"	 			"350"
 		"tall"	 			"120"
 		"PaintBackgroundType"	"2"
 	}
@@ -1329,8 +1283,8 @@
 		"visible" 			"1"
 		"enabled" 			"1"
 		"xpos"				"c-235"
-		"ypos"				"c135"
-		"zpos"				"0"
+		"ypos"				"c40"
+		"zpos"				"2"
 		"wide"				"470"
 		"tall"				"200"
 		"PaintBackgroundType" "0"

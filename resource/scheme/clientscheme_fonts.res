@@ -423,7 +423,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica_bold"
+				"name"			"Futura PT Bold"
 				"tall" 		 	"56"
 				"additive"		"0"
 				"antialias"		"1"
@@ -433,7 +433,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica_bold"
+				"name"			"Futura PT Bold"
 				"tall"			"40"
 				"additive"		"0"
 				"antialias"		"1"
@@ -443,7 +443,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica_bold"
+				"name"			"Futura PT Bold"
 				"tall"			"32"
 				"additive"		"0"
 				"antialias"		"1"
@@ -453,7 +453,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica_bold"
+				"name"			"Futura PT Bold"
 				"tall"			"28"
 				"additive"		"0"
 				"antialias"		"1"
@@ -463,7 +463,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica_bold"
+				"name"			"Futura PT Bold"
 				"tall"			"24"
 				"additive"		"0"
 				"antialias"		"1"
@@ -473,7 +473,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica_bold"
+				"name"			"Futura PT Bold"
 				"tall" 		 	"24"
 				"additive"	 	"0"
 				"antialias"	 	"1"
@@ -484,7 +484,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica_bold"
+				"name"			"Futura PT Bold"
 				"tall"			"20"
 				"additive"		"0"
 				"antialias"		"1"
@@ -494,7 +494,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica_bold"
+				"name"			"Futura PT Bold"
 				"tall"			"18"
 				"additive"		"0"
 				"antialias"		"1"
@@ -504,7 +504,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica_bold"
+				"name"			"Futura PT Bold"
 				"tall"			"16"
 				"additive"		"0"
 				"antialias"		"1"
@@ -514,7 +514,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica_bold"
+				"name"			"Futura PT Bold"
 				"tall"			"14"
 				"additive"		"0"
 				"antialias"		"1"
@@ -524,7 +524,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica_bold"
+				"name"			"Futura PT Bold"
 				"tall"			"12"
 				"additive"		"0"
 				"antialias"		"1"
@@ -534,7 +534,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica_bold"
+				"name"			"Futura PT Bold"
 				"tall"			"10"
 				"additive"		"0"
 				"antialias"		"1"
@@ -1552,7 +1552,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"24"
 				"antialias" 	"1"
 				"custom"		"1" [$OSX]
@@ -1563,7 +1563,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"14" [!$OSX]
 				"tall"			"15" [$OSX]
 				"antialias"		"1"
@@ -2788,7 +2788,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"12"
 				"weight"		"500"
 				"additive"		"0"
@@ -2799,7 +2799,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"14"
 				"weight"		"500"
 				"additive"		"0"
@@ -2810,7 +2810,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"18"
 				"weight"		"500"
 				"additive"		"0"
@@ -2821,7 +2821,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"24"
 				"weight"		"500"
 				"additive"		"0"
@@ -2832,7 +2832,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"18"
 				"weight"		"500"
 				"additive"		"0"
@@ -2845,7 +2845,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura"
 				"tall"			"14"
 				"weight"		"500"
 				"additive"		"0"
@@ -2856,7 +2856,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"24"
 				"weight"		"500"
 				"additive"		"0"
@@ -2868,7 +2868,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"15"
 				"weight"		"500"
 				"range"			"0x0000 0x007F"
@@ -2881,7 +2881,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"10"
 				"weight"		"400"
 				"additive"		"0"
@@ -2893,7 +2893,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"12"
 				"weight"		"500"
 				"antialias" 	"1"
@@ -2904,7 +2904,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"12"
 				"weight"		"500"
 				"blur"			"3"
@@ -2917,7 +2917,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica"
+				"name"			"Futura PT Bold"
 				"tall"			"12"
 				"weight"		"500"
 				"additive"		"0"
@@ -3119,13 +3119,13 @@ Scheme
 		}
 		"8"
 		{
-			"font"	"resource/fonts/Cerbetica.otf"
-			"name"	"Cerbetica"
+			"font"	"resource/fonts/Futura PT Bold.otf"
+			"name"	"Futura PT Bold"
 		}
 		"9"
 		{
-			"font"	"resource/fonts/Cerbetica_bold.otf"
-			"name"	"Cerbetica_bold"
+			"font"	"resource/fonts/Futura PT Bold_bold.otf"
+			"name"	"Futura PT Bold_bold"
 		}
 		"10"
 		{

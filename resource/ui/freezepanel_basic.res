@@ -4,11 +4,11 @@
 	{
 		"ControlName"	"CItemModelPanel"
 		"fieldName"		"itempanel"
-		"xpos"			"r249"
-		"ypos"			"c50"
+		"xpos"			"r240"
+		"ypos"			"r240"
 		"zpos"			"10"
 		"wide"			"240"
-		"tall"			"100"
+		"tall"			"240"
 		"visible"		"0"
 		"bgcolor_override"		"255 255 255 0"
 		"PaintBackgroundType"	"0"
@@ -116,22 +116,17 @@
 		}
 		"FreezePanelBG"
 		{
-			"ControlName"	"CTFImagePanel"
+			"ControlName"	"EditablePanel"
 			"fieldName"		"FreezePanelBG"
 			"xpos"			"0"
 			"ypos"			"46"
 			"zpos"			"0"
 			"wide"			"240"
 			"tall"			"3"
-			"visible"		"1"
-			"enabled"		"1"
+			"visible"		"0"
+			"enabled"		"0"
 			"image"			"../hud/color_panel_blu"
 			"scaleImage"		"1"
-
-			"src_corner_height"		"23"
-			"src_corner_width"		"23"
-			"draw_corner_width"		"0"
-			"draw_corner_height" 	"0"
 		}
 
 		"FreezeLabel"

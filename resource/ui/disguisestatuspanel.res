@@ -26,43 +26,28 @@
 		}
 	}
 
-	"ShadedBar"
-	{
-		"ControlName"		"EditablePanel"
-		"fieldName"			"ShadedBar"
-		"xpos"				"0"
-		"ypos"				"0"
-		"zpos"				"0"
-		"wide"				"150"
-		"tall"				"30"
-		"visible"			"1"
-		"enabled"			"1"
-		"bgcolor_override"	"TransparentBlack"
-		"PaintBackgroundType"	"0"
-	}
-
 	"DisguiseStatusBG"
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"DisguiseStatusBG"
-		"xpos"			"30"
+		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"0"
 		"wide"			"150"
-		"tall"			"15"
+		"tall"			"30"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../hud/color_panel_brown"
+		"image"			"replay/thumbnails/box_3_n"
 		"scaleImage"	"1"
-		"teambg_1"		"../hud/color_panel_brown"
-		"teambg_2"		"../hud/color_panel_red"
-		"teambg_3"		"../hud/color_panel_blu"
+		"teambg_1"		"replay/thumbnails/box_3_n"
+		"teambg_2"		"replay/thumbnails/box_3_r"
+		"teambg_3"		"replay/thumbnails/box_3_b"
 		"src_corner_height"		"23"
 		"src_corner_width"		"23"
-		"draw_corner_width"		"0"
-		"draw_corner_height" 	"0"
+		"draw_corner_width"		"4"
+		"draw_corner_height" 	"4"
 	}
 
 	"DisguiseNameLabel"
@@ -168,7 +153,7 @@
 		"enabled"			"1"
 		"HealthBonusPosAdj"	"10"
 		"HealthDeathWarning"		"0.49"
-		"TFFont"					"HudFontSmall"
+		"TFFont"					"FUTURA_BOLD_12"
 		"HealthDeathWarningColor"	"HUDDeathWarning"
 		"TextColor"					"HudOffWhite"
 	}

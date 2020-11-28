@@ -334,4 +334,6 @@
 		"enabled"		"1"
 		"image"			"../effects/soldier_buff_defense_red"
 	}
+	
+	
 }

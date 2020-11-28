@@ -16,9 +16,9 @@
 		"tabPosition"	"0"
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
-		"bgcolor_override"				"DarkGrey"
-		"infocus_bgcolor_override"		"DarkGrey"
-		"outoffocus_bgcolor_override"	"DarkGrey"
+		"bgcolor_override"				"ZeesBlack"
+		"infocus_bgcolor_override"		"ZeesBlack"
+		"outoffocus_bgcolor_override"	"ZeesBlack"
 
 		"modelpanels_spacing"		"40"
 		"modelpanels_width"			"500"
@@ -61,7 +61,7 @@
 		"wide"			"36"
 		"tall"			"36"
 		"visible"		"1"
-		"bgcolor_override" "ColorBlack"
+		"bgcolor_override" "ZeesBlack"
 	}
 
 	"classimage"
@@ -168,7 +168,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"#NextItem"
-		"font"			"Cerbetica16"
+		"font"			"FUTURA_BOLD_16"
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
@@ -192,7 +192,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"#PreviousItem"
-		"font"			"Cerbetica16"
+		"font"			"FUTURA_BOLD_16"
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
@@ -310,7 +310,7 @@
 		"PaintBackgroundType"	"2"
 		"paintbackground"	"1"
 		"border"		"NoBorder"
-		"bgcolor_override"	"DarkerGrey"
+		"bgcolor_override"	"ZeesBlack"
 
 		"TipLabel"
 		{
@@ -327,7 +327,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override"	"TanLight"
+			"fgcolor_override"	"ZeesRed"
 			"wrap"			"1"
 			"centerwrap"	"1"
 		}

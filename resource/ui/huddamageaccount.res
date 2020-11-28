@@ -8,10 +8,10 @@
 		"delta_item_end_y"		"0"
 		"PositiveColor"			"ZeesGreen"
 		"NegativeColor"			"ZeesRed"
-		"delta_lifetime"		"3"
-		"textAlignment"		"center"
+		"delta_lifetime"		"2.5"
+		"textAlignment"			"center"
 		"delta_item_font"		"FUTURA_BOLD_32"
-		"delta_item_font_big"	"FUTURA_BOLD_40"
+		"delta_item_font_big"	"FUTURA_BOLD_48"
 	}
 
 	"DamageAccountValue"

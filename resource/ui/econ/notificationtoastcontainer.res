@@ -11,8 +11,7 @@
 		"tall"			"50"
 		"visible"		"1"
 		"enabled"		"1"
-		"bgcolor_override"	"DarkGrey"
-		"border"			"CyanBorder"
+		"border"			"ZeesBorderWhite"
 	}
 
 	"HelpTextLabel"
