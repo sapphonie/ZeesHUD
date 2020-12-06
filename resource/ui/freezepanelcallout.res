@@ -11,13 +11,13 @@
 		"tall"			"24"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../hud/color_panel_brown"
+		"image"			"replay/thumbnails/box_3_n"
 		"scaleImage"		"1"	
-		"teambg_2"		"../hud/color_panel_blu"	// Reversed, due to showing killer's name
-		"teambg_3"		"../hud/color_panel_red"	// Reversed, due to showing killer's name
+		"teambg_2"		"replay/thumbnails/box_3_b"	// Reversed, due to showing killer's name
+		"teambg_3"		"replay/thumbnails/box_3_r"	// Reversed, due to showing killer's name
 		
-		"src_corner_height"		"23"				// pixels inside the image
-		"src_corner_width"		"23"
+		"src_corner_height"		"32"				// pixels inside the image
+		"src_corner_width"		"32"
 			
 		"draw_corner_width"		"5"				// screen size of the corners ( and sides ), proportional
 		"draw_corner_height" 	"5"		

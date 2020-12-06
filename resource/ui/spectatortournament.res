@@ -11,20 +11,20 @@
 		"enabled"				"1"
 
 		"team1_player_base_offset_x"	"0"
-		"team1_player_base_y"			"255"
+		"team1_player_base_y"			"225"
 		"team1_player_delta_x"			"0"
-		"team1_player_delta_y"			"-16"
+		"team1_player_delta_y"			"-21"
 
-		"team2_player_base_offset_x"	"0"
+		"team2_player_base_offset_x"	"-0"
 		"team2_player_base_y"			"275"
 		"team2_player_delta_x"			"0"
-		"team2_player_delta_y"			"16"
+		"team2_player_delta_y"			"21"
 
 		"playerpanels_kv"
 		{
 			"visible"			"0"
 			"wide"				"156"
-			"tall"				"16"
+			"tall"				"20"
 			"zpos"				"1"
 			"color_ready"		"0 255 0 220"
 			"color_notready"	"0 0 0 220"
@@ -171,15 +171,15 @@
 				"visible"			"1"
 				"labelText"			"%playername%"
 				"textAlignment"		"west"
-				"fgcolor"			"TanLight"
+				"fgcolor"			"ZeesWhite"
 			}
 
 			"HealthIcon"
 			{
 				"ControlName"		"EditablePanel"
 				"fieldName"			"HealthIcon"
-				"xpos"				"0"
-				"ypos"				"0"
+				"xpos"				"2"
+				"ypos"				"1"
 				"zpos"				"3"
 				"wide"				"26"
 				"tall"				"17"
@@ -187,7 +187,7 @@
 				"HealthDeathWarning"		"0.49"
 				"HealthDeathWarningColor"	"HUDDeathWarning"
 				"TFFont" 					"HudFontSmallest"
-				"TextColor" 				"HudOffWhite"
+				"TextColor" 				"ZeesWhite"
 			}
 
 			"PanelBG"
@@ -201,9 +201,33 @@
 				"tall"				"0"
 				"autoResize"		"0"
 				"pinCorner"			"0"
+				"visible"			"0"
+				"enabled"			"0"
+				"fillcolor"			"15 15 15 50"
+			}
+			"PanelBGBetter"
+			{
+				"ControlName"		"CTFImagePanel"
+				"fieldName"			"PanelBGBetter"
+				"xpos"				"0"
+				"ypos"				"0"
+				"zpos"				"1"
+				"wide"				"156"
+				"tall"				"20"
+				"autoResize"		"0"
+				"pinCorner"			"0"
 				"visible"			"1"
 				"enabled"			"1"
-				"fillcolor"			"15 15 15 50"
+				"fillcolor"			"0 0 0 0"
+				"image"				"replay/thumbnails/box_3_n"
+				"scaleImage"		"1"
+				"teambg_1"			"replay/thumbnails/box_3_n"
+				"teambg_2"			"replay/thumbnails/box_3_r"
+				"teambg_3"			"replay/thumbnails/box_3_b"
+				"src_corner_height"		"32"
+				"src_corner_width"		"32"
+				"draw_corner_width"		"5"
+				"draw_corner_height" 	"5"
 			}
 
 			"respawntime"
@@ -221,7 +245,7 @@
 				"visible"			"1"
 				"labelText"			"%respawntime%"
 				"textAlignment"		"west"
-				"fgcolor"			"255 20 175 255"
+				"fgcolor"			"ZeesRedDark"
 			}
 
 			"respawntimeBG"
@@ -383,14 +407,15 @@
 	{
 		"ControlName"			"CItemModelPanel"
 		"fieldName"				"itempanel"
-		"xpos"					"r249"
-		"ypos"					"c50"
+		"xpos"					"r240"
+		"ypos"					"r100"
 		"zpos"					"10"
 		"wide"					"240"
 		"tall"					"100"
 		"visible"				"0"
 		"bgcolor_override"		"255 255 255 0"
-		"PaintBackgroundType"	"0"
+		"border"				"ZeesBorderWhite"
+		"PaintBackgroundType"	"2"
 
 		"model_ypos"			"20"
 		"model_center_x"		"1"
@@ -406,7 +431,9 @@
 		"padding_height"		"10"
 		"resize_to_text"		"1"
 		"text_forcesize"		"2"
-
+		
+		
+		
 		"itemmodelpanel"
 		{
 			"fieldName"				"itemmodelpanel"

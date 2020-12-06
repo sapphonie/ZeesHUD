@@ -215,6 +215,111 @@
 	
 	//=====================================
 	//
+	//		  		CTF ICONS
+	//
+	//=====================================
+	"ctf_moving"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"ctf_moving"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/objectives_flagpanel_ico_flag_moving"
+	}
+	"ctf_moving_alt"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"ctf_moving_alt"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/objectives_flagpanel_ico_flag_moving_alt"
+	}
+	"ctf_home"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"ctf_home"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/objectives_flagpanel_ico_flag_home"
+	}
+	"ctf_home_alt"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"ctf_home_alt"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/objectives_flagpanel_ico_flag_home_alt"
+	}
+	"ctf_dropped"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"ctf_dropped"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/objectives_flagpanel_ico_flag_dropped"
+	}
+	"ctf_blue_arrow"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"ctf_blue_arrow"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/objectives_flagpanel_compass_blue"
+	}
+	"ctf_blue"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"ctf_blue"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/objectives_flagpanel_compass_blue_noarrow"
+	}
+	"ctf_red_arrow"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"ctf_red_arrow"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/objectives_flagpanel_compass_red"
+	}
+	"ctf_red"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"ctf_red"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/objectives_flagpanel_compass_red_noarrow"
+	}
+	"ctf_gray"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"ctf_gray"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/objectives_flagpanel_compass_gray"
+	}
+	"ctf_gray_red"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"ctf_gray_red"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/objectives_flagpanel_compass_gray_with_red"
+	}
+	
+	//=====================================
+	//
 	//			VACCINATOR ICONS
 	//
 	//=====================================

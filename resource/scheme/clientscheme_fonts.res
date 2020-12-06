@@ -9,7 +9,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Steelfish Rg"
+				"name"			"SteelfishRg-Regular"
 				"tall" 		 	"16"
 				"additive"		"0"
 				"antialias"		"1"
@@ -19,7 +19,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Steelfish Rg"
+				"name"			"SteelfishRg-Regular"
 				"tall" 		 	"12"
 				"additive"		"0"
 				"antialias"		"1"
@@ -29,79 +29,79 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Steelfish Rg"
+				"name"			"SteelfishRg-Regular"
 				"tall" 		 	"10"
 				"additive"		"0"
 				"antialias"		"1"
 			}
 		}
 		
-			// cikandei
-		"cikandei_56"
+			// CIKANDEI
+		"CIKANDEI_56"
 		{
 			"1"
 			{
-				"name"			"cikandei"
+				"name"			"CIKANDEI"
 				"tall" 		 	"56"
 				"additive"		"0"
 				"antialias"		"1"
 			}
 		}
-		"cikandei_48"
+		"CIKANDEI_48"
 		{
 			"1"
 			{
-				"name"			"cikandei"
+				"name"			"CIKANDEI"
 				"tall" 		 	"48"
 				"additive"		"0"
 				"antialias"		"1"
 			}
 		}
-		"cikandei_40"
+		"CIKANDEI_40"
 		{
 			"1"
 			{
-				"name"			"cikandei"
+				"name"			"CIKANDEI"
 				"tall" 		 	"40"
 				"additive"		"0"
 				"antialias"		"1"
 			}
 		}
-		"cikandei_36"
+		"CIKANDEI_36"
 		{
 			"1"
 			{
-				"name"			"cikandei"
+				"name"			"CIKANDEI"
 				"tall" 		 	"36"
 				"additive"		"0"
 				"antialias"		"1"
 			}
 		}
-		"cikandei_32"
+		"CIKANDEI_32"
 		{
 			"1"
 			{
-				"name"			"cikandei"
+				"name"			"CIKANDEI"
 				"tall" 		 	"32"
 				"additive"		"0"
 				"antialias"		"1"
 			}
 		}
-		"cikandei_24"
+		"CIKANDEI_24"
 		{
 			"1"
 			{
-				"name"			"cikandei"
+				"name"			"CIKANDEI"
 				"tall" 		 	"24"
 				"additive"		"0"
 				"antialias"		"1"
 			}
 		}
-		"cikandei_16"
+		"CIKANDEI_16"
 		{
 			"1"
 			{
-				"name"			"cikandei"
+				"name"			"CIKANDEI"
 				"tall" 		 	"16"
 				"additive"		"0"
 				"antialias"		"1"
@@ -216,7 +216,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nokia Cellphone FC"
+				"name"			"Nokia Cellphone FC Small"
 				"tall" 		 	"32"
 				"additive"		"0"
 				"antialias"		"0"
@@ -226,7 +226,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nokia Cellphone FC"
+				"name"			"Nokia Cellphone FC Small"
 				"tall" 		 	"24"
 				"additive"		"0"
 				"antialias"		"0"
@@ -236,7 +236,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nokia Cellphone FC"
+				"name"			"Nokia Cellphone FC Small"
 				"tall" 		 	"16"
 				"additive"		"0"
 				"antialias"		"0"
@@ -246,7 +246,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nokia Cellphone FC"
+				"name"			"Nokia Cellphone FC Small"
 				"tall" 		 	"12"
 				"additive"		"0"
 				"antialias"		"0"
@@ -256,7 +256,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nokia Cellphone FC"
+				"name"			"Nokia Cellphone FC Small"
 				"tall" 		 	"8"
 				"additive"		"0"
 				"antialias"		"0"
@@ -264,23 +264,12 @@ Scheme
 		}
 		
 		//smb2
-		
-		"smb2_32"
+		"smb2_28"
 		{
 			"1"
 			{
-				"name"			"Super Mario Bros. 2"
-				"tall" 		 	"32"
-				"additive"		"0"
-				"antialias"		"0"
-			}
-		}
-		"smb2_24"
-		{
-			"1"
-			{
-				"name"			"Super Mario Bros. 2"
-				"tall" 		 	"24"
+				"name"			"Super Mario Bros. 2 Regular"
+				"tall" 		 	"28"
 				"additive"		"0"
 				"antialias"		"0"
 			}
@@ -289,8 +278,38 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Super Mario Bros. 2"
+				"name"			"Super Mario Bros. 2 Regular"
 				"tall" 		 	"16"
+				"additive"		"0"
+				"antialias"		"0"
+			}
+		}
+		"smb2_14"
+		{
+			"1"
+			{
+				"name"			"Super Mario Bros. 2 Regular"
+				"tall" 		 	"14"
+				"additive"		"0"
+				"antialias"		"0"
+			}
+		}
+		"smb2_12"
+		{
+			"1"
+			{
+				"name"			"Super Mario Bros. 2 Regular"
+				"tall" 		 	"12"
+				"additive"		"0"
+				"antialias"		"0"
+			}
+		}
+		"smb2_10"
+		{
+			"1"
+			{
+				"name"			"Super Mario Bros. 2 Regular"
+				"tall" 		 	"10"
 				"additive"		"0"
 				"antialias"		"0"
 			}
@@ -299,7 +318,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Super Mario Bros. 2"
+				"name"			"Super Mario Bros. 2 Regular"
 				"tall" 		 	"8"
 				"additive"		"0"
 				"antialias"		"0"
@@ -3119,48 +3138,33 @@ Scheme
 		}
 		"8"
 		{
-			"font"	"resource/fonts/Futura PT Bold.otf"
-			"name"	"Futura PT Bold"
+			"font"	"resource/fonts/CIKANDEI.tff"
+			"name"	"CIKANDEI"
 		}
 		"9"
-		{
-			"font"	"resource/fonts/Futura PT Bold_bold.otf"
-			"name"	"Futura PT Bold_bold"
-		}
-		"10"
-		{
-			"font"	"resource/fonts/cikandei.tff"
-			"name"	"cikandei"
-		}
-		"11"
 		{
 			"font"	"resource/fonts/GAMERIA.tff"
 			"name"	"GAMERIA"
 		}
-		"12"
+		"10"
 		{
 			"font"	"resource/fonts/nokiafc22.tff"
-			"name"	"Nokia Cellphone FC"
+			"name"	"Nokia Cellphone FC Small"
 		}
-		"13"
+		"11"
 		{
 			"font"	"resource/fonts/Futura PT Bold.otf"
 			"name"	"Futura PT Bold"
 		}
-		"14"
+		"12"
 		{
 			"font"	"resource/fonts/smb2.tff"
-			"name"	"Super Mario Bros. 2"
+			"name"	"Super Mario Bros. 2 Regular"
 		}
-		"15"
+		"14"
 		{
-			"font"	"resource/fonts/Futura PT Medium.otf"
-			"name"	"Futura PT Medium"
-		}
-		"16"
-		{
-			"font"	"resource/fonts/steelfish rg.ttf"
-			"name"	"Steelfish Rg"
+			"font"	"resource/fonts/SteelfishRg-Regular.ttf"
+			"name"	"SteelfishRg-Regular"
 		}
 	}
 }

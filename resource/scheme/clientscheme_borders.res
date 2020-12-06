@@ -4,7 +4,52 @@ Scheme
 	{
 		// ZEESHUD GENERIC BORDERS
 		
-		ZeesBorderWhite
+		PixelBorderNeutral
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"255 255 255 255"
+			"image"					"replay/thumbnails/pixel_border_n"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"8"					// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"8"
+		}
+		PixelBorderBlue
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"255 255 255 255"
+			"image"					"replay/thumbnails/pixel_border_b"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"8"					// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"8"
+		}
+		PixelBorderRed
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"255 255 255 255"
+			"image"					"replay/thumbnails/pixel_border_r"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"8"					// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"8"
+		}
+		PixelBorderMixed
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"255 255 255 255"
+			"image"					"replay/thumbnails/pixel_border_mix"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"8"					// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"8"
+		}
+		
+		ZeesBorderWhiteOpaque
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
@@ -16,7 +61,7 @@ Scheme
 			"draw_corner_height" 	"7"
 		}
 		
-		ZeesBorderBlue
+		ZeesBorderBlueOpaque
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
@@ -28,7 +73,7 @@ Scheme
 			"draw_corner_height" 	"7"
 		}
 		
-		ZeesBorderRed
+		ZeesBorderRedOpaque
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
@@ -40,8 +85,44 @@ Scheme
 			"draw_corner_height" 	"7"
 		}
 		
+		ZeesBorderWhite
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"255 255 255 255"
+			"image"					"replay/thumbnails/box_3_n_t"
+			"src_corner_height"		"30"				// pixels inside the image
+			"src_corner_width"		"30"
+			"draw_corner_width"		"7"					// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"7"
+		}
 		
-		// REST IS FROM RAYSHUD
+		ZeesBorderBlue
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"255 255 255 255"
+			"image"					"replay/thumbnails/box_3_b_t"
+			"src_corner_height"		"30"				// pixels inside the image
+			"src_corner_width"		"30"
+			"draw_corner_width"		"7"					// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"7"
+		}
+		
+		ZeesBorderRed
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"255 255 255 255"
+			"image"					"replay/thumbnails/box_3_r_t"
+			"src_corner_height"		"30"				// pixels inside the image
+			"src_corner_width"		"30"
+			"draw_corner_width"		"7"					// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"7"
+		}
+		
+		
+		// REST IS FROM RAYSHUD OR DEFAULT TF2
 	
 		ButtonHover
 		{
@@ -1074,7 +1155,8 @@ Scheme
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
-			"image"					"backpack_rect"
+			"color"					"ZeesDarkGray"
+			"image"					"backpack_rect_color"
 			"src_corner_height"		"24"				// pixels inside the image
 			"src_corner_width"		"24"
 			"draw_corner_width"		"2"					// screen size of the corners ( and sides ), proportional
@@ -1099,7 +1181,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "60 54 53 255"
+					"color" "ZeesMain"
 					"offset" "0 0"
 				}
 			}
@@ -1107,7 +1189,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "60 54 53 255"
+					"color" "ZeesMain"
 					"offset" "0 0"
 				}
 			}
@@ -1115,7 +1197,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "60 54 53 255"
+					"color" "ZeesMain"
 					"offset" "0 0"
 				}
 			}
@@ -1123,7 +1205,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "60 54 53 255"
+					"color" "ZeesMain"
 					"offset" "0 0"
 				}
 			}

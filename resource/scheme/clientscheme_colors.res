@@ -2,8 +2,10 @@ Scheme
 {
 	Colors
 	{
+	
 		//ZEESHUD
 		//---------------------------------------------
+		
 		"ZeesRed"					"255 0 90 255"
 		"ZeesDarkRed"				"133 7 51 255"
 		"ZeesDarkerRed"				"71 9 31 255"
@@ -31,8 +33,27 @@ Scheme
 		"ZeesBlack"					"0 0 0 255"
 		"ZeesDarkGray"				"42 43 47 255"
 		"ZeesGray"					"120 122 131 255"
+		
+		"ZeesNull"					"0 0 0 0"
+		
+		
+		//==============================================================================
+		//	WANNA CHANGE THE COLOR OF THE MENU? 
+		//	YOU DOUBT MY TALENTS OF HUDMAKING AND HATE THE RED?
+		//	alright sure whatever
+		//	just change "ZeesMain" to one of the existing colors or put your own!
+		//	(that'll get implemented in a future update, don't worry if some things are broken)
+		//==============================================================================
+		
+		"ZeesMain"					"ZeesRed"
+		"ZeesDarkMain"				"ZeesDarkRed"
+		
+		//===============================================================================
+		
+		
+		
 		//---------------------------------------------
-		// HUD COLORS
+		// RAYSHUD COLORS (GET RID OF THOSE IN FINAL RELEASE EWWW YUCKY!!!!!)
 		//---------------------------------------------
 		"ColorRed"					"255 0 0 255"
 		"ColorVermillion"			"255 64 0 255"
@@ -169,9 +190,9 @@ Scheme
 		// Training
 		"HudTrainingHint"						"212 160 23 255"
 
-		"TanDark"								"ZeesGray"
+		"TanDark"								"120 122 131 255" //ZeesGray
 		"TanLight"								"255 255 255 255"
-		"TanDarker"								"ZeesDarkGray"
+		"TanDarker"								"42 43 47 255" //ZeesDarkGray
 
 		"StoreDarkTan"							"103 97 110 255"
 		"StoreGreen"							"76 107 34 255"

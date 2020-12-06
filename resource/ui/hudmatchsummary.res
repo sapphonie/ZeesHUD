@@ -255,7 +255,7 @@
 					"visible"		"1"
 					"enabled"		"1"
 					"border"		"DarkBlueTeamBorder"
-					"bgcolor_override"	"Blue"
+					"bgcolor_override"	"ZeesBlue"
 
 					if_large
 					{
@@ -530,7 +530,7 @@
 					"visible"		"1"
 					"enabled"		"1"
 					"border"		"DarkRedTeamBorder"
-					"bgcolor_override"	"Red"
+					"bgcolor_override"	"ZeesRed"
 
 					if_large
 					{

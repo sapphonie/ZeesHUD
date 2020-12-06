@@ -1,9 +1,10 @@
 "UnlitGeneric"
 {
-	"$basetexture" "vgui/replay/thumbnails/killstreak_bg"
 	"$translucent" 1
 	"$vertexcolor" 1
 	"$no_fullbright" 1
 	"$ignorez" 1
 	"%keywords" "tf"
+	"$basetexture" "vgui/replay/thumbnails/killstreak_bg"
+
 }

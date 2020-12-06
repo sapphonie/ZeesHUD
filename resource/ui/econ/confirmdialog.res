@@ -17,9 +17,12 @@
 		"PaintBackgroundType"	"0"
 		"paintbackground"		"1"
 		"paintborder"			"1"
-		"border"				"CyanBorderThick"
-		"bgcolor_override"		"DarkGrey"
+		"border_default"		"ZeesBorderWhite"
+		"border_armed"			"ZeesBorderRed"
+		"bgcolor_override"		"ZeesBlack"
+		
 	}
+	
 
 	"TitleLabel"
 	{
@@ -32,7 +35,7 @@
 		"ypos"					"15"
 		"zpos"					"1"
 		"wide"					"324"
-		"tall"					"23"
+		"tall"					"26"
 		"autoResize"			"1"
 		"pinCorner"				"0"
 		"visible"				"1"
@@ -43,7 +46,7 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ExplanationLabel"
-		"font"					"EconFontSmall"
+		"font"					"FUTURA_BOLD_12"
 		"labelText"				"%text%"
 		"textAlignment"			"center"
 		"xpos"					"40"
@@ -61,10 +64,10 @@
 	{
 		"ControlName"			"CExButton"
 		"fieldName"				"CancelButton"
-		"xpos"					"190"
+		"xpos"					"160"
 		"ypos"					"165"
 		"zpos"					"20"
-		"wide"					"124"
+		"wide"					"150"
 		"tall"					"20"
 		"autoResize"			"0"
 		"pinCorner"				"0"
@@ -80,8 +83,9 @@
 		"Command"				"cancel"
 		"sound_depressed"		"UI/buttonclick.wav"
 		"sound_released"		"UI/buttonclickrelease.wav"
-		"bgcolor_override"		"ZeesRed"
-		"fgcolor_override"		"ZeesBlack"
+		"border_default"		"ZeesBorderWhite"
+		"border_armed"			"ZeesBorderRed"
+		"paintbackground"		"0"
 	}
 
 	"ConfirmButton"
@@ -91,7 +95,7 @@
 		"xpos"					"10"
 		"ypos"					"165"
 		"zpos"					"20"
-		"wide"					"175"
+		"wide"					"150"
 		"tall"					"20"
 		"default"				"1"
 		"autoResize"			"0"
@@ -108,7 +112,8 @@
 		"Command"				"confirm"
 		"sound_depressed"		"UI/buttonclick.wav"
 		"sound_released"		"UI/buttonclickrelease.wav"
-		"bgcolor_override"		"ZeesRed"
-		"fgcolor_override"		"ZeesBlack"
+		"border_default"		"ZeesBorderWhite"
+		"border_armed"			"ZeesBorderRed"
+		"paintbackground"		"0"
 	}
 }

@@ -154,8 +154,8 @@
 	{
 		"ControlName"	"CItemModelPanel"
 		"fieldName"		"itempanel"
-		"xpos"			"r249"
-		"ypos"			"c50"
+		"xpos"			"r240"
+		"ypos"			"r100"
 		"zpos"			"10"
 		"wide"			"240"
 		"tall"			"100"
@@ -181,7 +181,7 @@
 
 		"ItemBG"
 		{
-			"ControlName"	"ImagePanel"
+			"ControlName"		"CTFImagePanel"
 			"fieldName"		"ItemBG"
 			"xpos"			"0"
 			"ypos"			"0"
@@ -192,7 +192,15 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fillcolor"		"HudBlack"
+			"image"				"replay/thumbnails/box_3_n"
+			"scaleImage"		"1"
+			"teambg_1"			"replay/thumbnails/box_3_n"
+			"teambg_2"			"replay/thumbnails/box_3_r"
+			"teambg_3"			"replay/thumbnails/box_3_b"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
+			"draw_corner_width"		"10"
+			"draw_corner_height" 	"10"
 		}
 
 		"itemmodelpanel"

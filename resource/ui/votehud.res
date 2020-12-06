@@ -11,8 +11,7 @@
 		"visible"			"0"
 		"enabled"			"1"
 		"paintborder"		"1"
-		"border"			"CyanBorderThick"
-		"bgcolor_override"	"DarkGrey"
+		"border"			"ZeesBorderWhite"
 		"PaintBackgroundType"	"2"
 
 		"PassedIcon"
@@ -45,7 +44,7 @@
 			"brighttext"		"0"
 			"font"				"ScoreboardSmall"
 			"wrap"				"1"
-			"fgcolor_override"	"White"
+			"fgcolor_override"	"ZeesWhite"
 		}
 
 		"PassedResult"
@@ -64,7 +63,7 @@
 			"brighttext"		"0"
 			"font"				"ScoreboardVerySmall"
 			"wrap"				"1"
-			"fgcolor_override"	"White"
+			"fgcolor_override"	"ZeesWhite"
 			"noshortcutsyntax"	"1"
 		}
 	}
@@ -80,7 +79,7 @@
 		"visible"			"0"
 		"enabled"			"1"
 		"paintborder"		"1"
-		"border"			"CyanBorderThick"
+		"border"			"ZeesBorderWhite"
 		"bgcolor_override"	"DarkGrey"
 		"PaintBackgroundType"	"2"
 
@@ -118,7 +117,7 @@
 			"dulltext"			"0"
 			"brighttext"		"0"
 			"font"				"ScoreboardSmall"
-			"fgcolor_override"	"White"
+			"fgcolor_override"	"ZeesWhite"
 			"wrap"				"1"
 			"noshortcutsyntax"	"1"
 		}
@@ -135,7 +134,7 @@
 			"enabled"			"1"
 			"image"				""
 			"scaleImage"		"1"
-			"color_outline"		"52 48 45 255"
+			"color_outline"		"ZeesMain"
 		}
 
 		"Divider"
@@ -167,7 +166,7 @@
 			"dulltext"			"0"
 			"brighttext"		"0"
 			"font"				"ScoreboardVerySmall"
-			"fgcolor_override"	"White"
+			"fgcolor_override"	"ZeesWhite"
 		}
 
 		"Option1Background_Selected"
@@ -179,7 +178,7 @@
 			"wide"				"130"
 			"tall"				"16"
 			"zpos"				"1"
-			"fillcolor"			"88 119 140 180"
+			"fillcolor"			"ZeesMain"
 			"visible"			"1"
 		}
 
@@ -199,7 +198,7 @@
 			"dulltext"			"0"
 			"brighttext"		"0"
 			"font"				"ScoreboardSmall"
-			"fgcolor_override"	"White"
+			"fgcolor_override"	"ZeesWhite"
 		}
 
 		"LabelOption2"
@@ -218,7 +217,7 @@
 			"dulltext"			"0"
 			"brighttext"		"0"
 			"font"				"ScoreboardVerySmall"
-			"fgcolor_override"	"White"
+			"fgcolor_override"	"ZeesWhite"
 		}
 
 		"Option2Background_Selected"
@@ -230,7 +229,7 @@
 			"wide"				"130"
 			"tall"				"16"
 			"zpos"				"1"
-			"fillcolor"			"88 119 140 180"
+			"fillcolor"			"ZeesMain"
 			"visible"			"1"
 		}
 
@@ -250,7 +249,7 @@
 			"dulltext"			"0"
 			"brighttext"		"0"
 			"font"				"ScoreboardSmall"
-			"fgcolor_override"	"White"
+			"fgcolor_override"	"ZeesWhite"
 		}
 
 		"LabelOption3"
@@ -269,7 +268,7 @@
 			"dulltext"			"0"
 			"brighttext"		"0"
 			"font"				"ScoreboardVerySmall"
-			"fgcolor_override"	"White"
+			"fgcolor_override"	"ZeesWhite"
 		}
 
 		"Option3Background_Selected"
@@ -281,7 +280,7 @@
 			"wide"				"130"
 			"tall"				"16"
 			"zpos"				"1"
-			"fillcolor"			"88 119 140 180"
+			"fillcolor"			"ZeesMain"
 			"visible"			"0"
 		}
 
@@ -301,7 +300,7 @@
 			"dulltext"			"0"
 			"brighttext"		"0"
 			"font"				"ScoreboardVerySmall"
-			"fgcolor_override"	"White"
+			"fgcolor_override"	"ZeesWhite"
 		}
 
 		"Option4Background_Selected"
@@ -313,7 +312,7 @@
 			"wide"				"130"
 			"tall"				"16"
 			"zpos"				"1"
-			"fillcolor"			"88 119 140 180"
+			"fillcolor"			"ZeesMain"
 			"visible"			"0"
 		}
 
@@ -333,7 +332,7 @@
 			"dulltext"			"0"
 			"brighttext"		"0"
 			"font"				"ScoreboardVerySmall"
-			"fgcolor_override"	"White"
+			"fgcolor_override"	"ZeesWhite"
 		}
 
 		"Option5Background_Selected"
@@ -411,7 +410,7 @@
 		"visible"			"0"
 		"enabled"			"1"
 		"paintborder"		"1"
-		"border"			"CyanBorderThick"
+		"border"			"ZeesBorderRed"
 		"bgcolor_override"	"DarkGrey"
 		"PaintBackgroundType"	"2"
 
@@ -445,7 +444,7 @@
 			"brighttext"		"0"
 			"font"				"ScoreboardSmall"
 			"wrap"				"1"
-			"fgcolor_override"	"200 30 30 255"
+			"fgcolor_override"	"ZeesRed"
 		}
 
 		"FailedReason"
@@ -464,7 +463,7 @@
 			"brighttext"		"0"
 			"font"				"ScoreboardVerySmall"
 			"wrap"				"1"
-			"fgcolor_override"	"White"
+			"fgcolor_override"	"ZeesWhite"
 		}
 	}
 
@@ -480,7 +479,7 @@
 		"visible"			"0"
 		"enabled"			"1"
 		"paintborder"		"1"
-		"border"			"CyanBorderThick"
+		"border"			"ZeesBorderRed"
 		"bgcolor_override"	"DarkGrey"
 		"PaintBackgroundType"	"2"
 
@@ -514,7 +513,7 @@
 			"brighttext"		"0"
 			"font"				"ScoreboardSmall"
 			"wrap"				"1"
-			"fgcolor_override"	"200 30 30 255"
+			"fgcolor_override"	"ZeesRed"
 		}
 
 		"FailedReason"
@@ -533,7 +532,7 @@
 			"brighttext"		"0"
 			"font"				"ScoreboardVerySmall"
 			"wrap"				"1"
-			"fgcolor_override"	"White"
+			"fgcolor_override"	"ZeesWhite"
 		}
 	}
 
@@ -552,7 +551,7 @@
 		"tabPosition"		"0"
 		"settitlebarvisible"	"0"
 		"paintborder"			"1"
-		"border"				"CyanBorderThick"
+		"border"				"ZeesBorderWhite"
 		"bgcolor_override"		"DarkGrey"
 		"PaintBackground"		"1"
 		"PaintBackgroundType"	"2"
@@ -561,8 +560,8 @@
 		"header_fgcolor"			"Orange"
 		"issue_width"				"180"
 		"issue_font"				"ItemFontNameSmall"
-		"issue_fgcolor"				"TanLight"
-		"issue_fgcolor_disabled"	"TanDark"
+		"issue_fgcolor"				"ZeesWhite"
+		"issue_fgcolor_disabled"	"ZeesGray"
 		"parameter_width"			"200"
 
 		"TitleLabel"

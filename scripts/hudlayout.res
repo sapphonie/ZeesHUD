@@ -237,12 +237,12 @@
 		"visible" 				"0"
 		"enabled" 				"1"
 		"xpos"					"c-100"
-		"ypos"					"c100"
+		"ypos"					"c60"
 		"wide"					"600"
 		"tall"					"30"
 		"priority"				"40"
 		"x_offset" 				"20"
-		"y_offset" 				"20"
+		"y_offset" 				"80"
 	}
 
 	CSecondaryTargetID
@@ -875,9 +875,9 @@
 		"visible" 			"1"
 		"enabled" 			"1"
 		"xpos"				"10"
-		"ypos"				"c-60"
-		"wide"	 			"350"
-		"tall"	 			"120"
+		"ypos"				"c6"
+		"wide"	 			"400"
+		"tall"	 			"150"
 		"PaintBackgroundType"	"2"
 	}
 

@@ -28,18 +28,18 @@
 			"delta_item_x"			"10"
 			"delta_item_start_y"	"12"
 			"delta_item_end_y"		"50"
-			"PositiveColor"			"ColorGreen"
-			"NegativeColor"			"ColorRed"
+			"PositiveColor"			"ZeesGreen"
+			"NegativeColor"			"ZeesRed"
 			"delta_lifetime"		"1.5"
-			"delta_item_font"		"HudFontMediumSmall"
+			"delta_item_font"		"SMB2_8"
 		}
 
 		"TimePanelValue"
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"			"TimePanelValue"
-			"font"				"HudFontMedium"
-			"fgcolor"			"TanLight"
+			"font"				"SMB2_8"
+			"fgcolor"			"ZeesWhite"
 			"xpos"				"25"
 			"ypos"				"0"
 			"zpos"				"3"
@@ -54,10 +54,10 @@
 			{
 				"proportionaltoparent"	"1"
 				"xpos"			"10"
-				"ypos"			"9"
+				"ypos"			"10"
 				"tall"			"10"
 				"wide"			"35"
-				"font"			"HudFontSmall"
+				"font"			"SMB2_8"
 			}
 		}
 	}
@@ -82,19 +82,19 @@
 			"delta_item_x"			"50"
 			"delta_item_start_y"	"12"
 			"delta_item_end_y"		"50"
-			"PositiveColor"			"ColorGreen"
-			"NegativeColor"			"ColorRed"
+			"PositiveColor"			"ZeesGreen"
+			"NegativeColor"			"ZeesRed"
 			"delta_lifetime"		"1.5"
-			"delta_item_font"		"HudFontMediumSmall"
+			"delta_item_font"		"SMB2_8"
 		}
 
 		"TimePanelValue"
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"			"TimePanelValue"
-			"font"				"HudFontMedium"
-			"fgcolor"			"TanLight"
-			"xpos"				"25"
+			"font"				"SMB2_8"
+			"fgcolor"			"ZeesWhite"
+			"xpos"				"26"
 			"ypos"				"0"
 			"zpos"				"3"
 			"wide"				"50"
@@ -107,11 +107,11 @@
 			if_match
 			{
 				"proportionaltoparent"	"1"
-				"xpos"			"rs1-15"
-				"ypos"			"9"
+				"xpos"			"rs1-14"
+				"ypos"			"10"
 				"wide"			"35"
 				"tall"			"10"
-				"font"			"HudFontSmall"
+				"font"			"SMB2_8"
 			}
 		}
 	}
@@ -127,7 +127,7 @@
 		"tall"				"3"
 		"visible"			"0"
 		"enabled"			"1"
-		"bgcolor_override"	"TanLight"
+		"bgcolor_override"	"ZeesWhite"
 		"PaintBackgroundType"	"0"
 	}
 }

@@ -1,3 +1,5 @@
+// SOME IMAGES OUTRIGHT REFUSE TO GET REPLACED. IN CASE I FIND A WORKAROUND, I KEEP THOSE AROUND
+
 	//=========================================
 	//
 	//		  	CLASS SELECTION MENU

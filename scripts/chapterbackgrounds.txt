@@ -4,6 +4,8 @@
 	2	"background_gravelpit"
 	3	"background_upward"
 	4	"background_mvm"
+	5	"background_mrlight1"
+
 }
 
 "BackgroundMaps"
@@ -12,4 +14,6 @@
 	2	"background_gravelpit"
 	3	"background_upward"
 	4	"background_mvm"
+	5	"background_mrlight1"
+
 }

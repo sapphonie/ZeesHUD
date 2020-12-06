@@ -13,20 +13,20 @@
 		"proportionaltoparent"	"1"
 		"keyboardinputenabled"	"1"
 		"mouseinputenabled"		"1"
-		"border"		"QuickplayBorder"
+		"border"		"ZeesBorderWhite"
 
 		"log_font_small"			"HudFontSmall"
 		"log_font_medium"			"HudFontMediumSmallSecondary"
 		"log_font_large"			"HudFontMediumSecondary"
 
 		"chat_color_default"		"255 255 255 255"
-		"chat_color_player_name"	"255 255 0 255"
+		"chat_color_player_name"	"255 0 90 255"
 		"chat_color_chat_text"		"255 255 255 255"
-		"chat_color_party_event"	"Orange"
+		"chat_color_party_event"	"ZeesOrange"
 
 		"collapsed_height"		"0"
 		"expanded_height"		"200"
-		"resize_time"	"0.3"
+		"resize_time"	"0.1"
 		"invalidate_parent_on_resize"	"0"
 	}
 
@@ -42,9 +42,9 @@
 		"visible"		"1"
 		"proportionaltoparent"	"1"
 		"RoundedCorners"	"0"
-		"font"			"HudFontSmallest"
+		"font"			"HudFontSmall"
 		
-		"bgcolor_override"	"0 0 0 50"
+		"bgcolor_override"	"0 0 0 0"
 
 		"pinCorner"		"2"
 		"autoResize"	"1"
@@ -85,16 +85,16 @@
 	{
 		// "ControlName"	"TextEntry"
 		"fieldName"		"chatentry"
-		"xpos"					"6"
-		"ypos"					"rs1+19"
+		"xpos"					"10"
+		"ypos"					"rs1+14"
 		"zpos"			"1"
 		"wide"			"f2"
 		"tall"			"13"
 		"visible"		"1"
 		"proportionaltoparent"	"1"
-		"bgcolor_override"	"0 0 0 255"
+		"bgcolor_override"	"0 0 0 0"
 		"RoundedCorners"	"0"
-		"font"			"HudFontSmallest"
+		"font"			"HudFontSmall"
 		"alpha"			"0"
 		"mouseinputenabled"	"0"
 

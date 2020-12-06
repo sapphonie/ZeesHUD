@@ -8,11 +8,11 @@
 		"ypos"			"0"
 		"zpos"			"1000"
 		"wide"			"f0"
-		"tall"			"f0"
+		"tall"			"480"
 		"visible"		"1"
-		"proportionaltoparent"	"1"
+		"proportionaltoparent"	"0"
 		"mouseinputenabled"		"0"
-		"bgcolor_override"		"ColorBlack"
+		"bgcolor_override"		"ZeesMain"
 	}
 
 	"TitleGradient"
@@ -148,10 +148,10 @@
 		"ypos"			"0"
 		"zpos"			"1"
 		"wide"			"f0"
-		"tall"			"f-20"
+		"tall"			"480"
 		"visible"		"1"
 		"proportionaltoparent"	"1"
-		"border"		"TeamMenuBorder"
-		"bgcolor_override"	"DarkGrey"
+		"PaintBackgroundType"	"2"
+		"border"		"ZeesBorderWhiteOpaque"
 	}
 }

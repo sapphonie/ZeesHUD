@@ -13,14 +13,12 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"tabPosition"		"0"
-		"bgcolor_override"	"DarkGrey"
+
 		"paintbackgroundtype"	"2"
 		"settitlebarvisible"	"0"
-		"paintborder"			"1"
-		"paintbackground"		"1"
-		"border"				"CyanBorderThick"
+		"border"				"ZeesBorderWhiteOpaque"
 
-		"control_w"			"500"
+		"control_w"			"400"
 		"control_h"			"25"
 		"slider_w"			"500"
 		"slider_h"			"25"
@@ -30,7 +28,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"TitleLabel"
-		"font"				"Cerbetica24"
+		"font"				"FUTURA_BOLD_24"
 		"labelText"			"#TF_AdvancedOptions"
 		"textAlignment"		"center"
 		"xpos"				"0"
@@ -42,7 +40,7 @@
 		"pinCorner"			"0"
 		"visible"			"1"
 		"enabled"			"1"
-		"fgcolor_override"	"TanLight"
+		"fgcolor_override"	"ZeesWhite"
 	}
 
 	"CancelButton"
@@ -118,12 +116,11 @@
 		"xpos"				"0"
 		"ypos"				"0"
 		"zpos"				"100"
-		"wide"				"240"
+		"wide"				"300"
 		"tall"				"50"
 		"visible"			"0"
-		"paintbackground"	"1"
-		"border"			"ButtonHover"
-		"bgcolor_override"	"DarkerGrey"
+		"paintbackgroundtype"	"2"
+		"border"			"ZeesBorderWhiteOpaque"
 
 		"TipLabel"
 		{
@@ -141,7 +138,7 @@
 			"pinCorner"			"0"
 			"visible"			"1"
 			"enabled"			"1"
-			"fgcolor_override"	"TanLight"
+			"fgcolor_override"	"ZeesWhite"
 			"wrap"				"1"
 			//"centerwrap"		"1"
 		}

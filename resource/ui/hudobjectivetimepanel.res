@@ -1,24 +1,6 @@
 "Resource/UI/HudObjectiveTimePanel.res"
 {
-	"TimePanelBG"
-	{
-		"ControlName"		"EditablePanel"
-		"fieldName"			"TimePanelBG"
-		"xpos"				"25"
-		"ypos"				"0"
-		"zpos"				"2"
-		"wide"				"50"
-		"tall"				"24"
-		"visible"			"1"
-		"enabled"			"1"
-		"bgcolor_override"	"TransparentBlack"
-		"PaintBackgroundType"	"0"
 
-		if_match
-		{
-			"visible"		"0"
-		}
-	}
 	"TimePanelProgressBar"
 	{
 		"ControlName"		"CTFProgressBar"
@@ -59,7 +41,7 @@
 		"dulltext"			"0"
 		"brighttext"		"0"
 		"wrap"				"0"
-		"font"				"HudFontSmall"
+		"font"				"SMB2_8"
 
 		if_match
 		{
@@ -89,7 +71,7 @@
 		"dulltext"			"0"
 		"brighttext"		"0"
 		"wrap"				"0"
-		"font"				"HudFontSmall"
+		"font"				"SMB2_12"
 
 		if_match
 		{
@@ -119,7 +101,7 @@
 		"dulltext"			"0"
 		"brighttext"		"0"
 		"wrap"				"0"
-		"font"				"HudFontSmall"
+		"font"				"SMB2_12"
 
 		if_match
 		{
@@ -149,7 +131,7 @@
 		"dulltext"			"0"
 		"brighttext"		"0"
 		"wrap"				"0"
-		"font"				"HudFontSmall"
+		"font"				"SMB2_12"
 
 		if_match
 		{

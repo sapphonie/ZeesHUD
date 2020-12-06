@@ -14,9 +14,6 @@
 		"tabPosition"	"0"
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
-		"bgcolor_override"				"ZeesBlack"
-		"infocus_bgcolor_override"		"DarkGrey"
-		"outoffocus_bgcolor_override"	"DarkGrey"
 
 		"item_xpos_offcenter_a"	"-310"
 		"item_xpos_offcenter_b"	"165"
@@ -92,28 +89,24 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 			"paintbackground"	"0"
-			"image_drawcolor"	"TanLight"
-			"image_armedcolor"	"ColorCyan"
+			//"image_drawcolor"	"ZeesWhite"
+			//"image_armedcolor"	"ZeesRed"
 		}
 	}
-
-	"CaratLabel"
+	
+	"loadoutBG"
 	{
-		"ControlName"	"CExLabel"
-		"fieldName"		"CaratLabel"
-		"font"			"HudFontSmallishBold"
-		"labelText"		">>"
-		"textAlignment"	"west"
-		"xpos"			"c-290"
-		"ypos"			"15"
-		"zpos"			"1"
-		"wide"			"20"
-		"tall"			"25"
-		"autoResize"	"1"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"fgcolor_override" "ColorPurple"
+		"controlname"		"imagepanel"
+		"fieldname"			"loadoutBG"
+		"xpos"				"0"
+		"ypos"				"0"
+		"zpos"				"-2"
+		"wide"				"f0"
+		"tall"				"480"
+		"image"				"replay/thumbnails/items/items_menu_bg_2"
+		"visible"			"1"
+		"enabled"			"1"
+	
 	}
 
 	"ClassLabel"
@@ -276,8 +269,9 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"
-		"defaultBgColor_override"		"ZeesDarkGray"
 		"paintbackground"	"0"
+		
+		
 	}
 
 	"PresetsExplanation"
@@ -373,10 +367,10 @@
 		"paintbackground"		"1"
 	}
 
-	"CharacterLoadoutButton"
+	"CharacterLoadoutButton2"
 	{
 		"ControlName"	"CExImageButton"
-		"fieldName"		"CharacterLoadoutButton"
+		"fieldName"		"CharacterLoadoutButton2"
 		"labelText"		""
 		"xpos"			"c-166"
 		"ypos"			"c-180"
@@ -395,6 +389,8 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 		
+		"defaultFgColor_override"	"ZeesMain"
+		"armedFgColor_override"		"ZeesDarkMain"
 		"defaultBgColor_override"		"ZeesDarkGray"
 
 		"SubImage"
@@ -413,10 +409,10 @@
 		}
 	}
 
-	"TauntLoadoutButton"
+	"TauntLoadoutButton2"
 	{
 		"ControlName"	"CExImageButton"
-		"fieldName"		"TauntLoadoutButton"
+		"fieldName"		"TauntLoadoutButton2"
 		"labelText"		""
 		"xpos"			"c-166"
 		"ypos"			"c-153"
@@ -435,6 +431,8 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 		
+		"defaultFgColor_override"	"ZeesMain"
+		"armedFgColor_override"		"ZeesDarkMain"
 		"defaultBgColor_override"		"ZeesDarkGray"
 
 		"SubImage"
