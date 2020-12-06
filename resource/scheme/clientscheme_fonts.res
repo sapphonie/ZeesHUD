@@ -3138,17 +3138,17 @@ Scheme
 		}
 		"8"
 		{
-			"font"	"resource/fonts/CIKANDEI.tff"
+			"font"	"resource/fonts/CIKANDEI.ttf"
 			"name"	"CIKANDEI"
 		}
 		"9"
 		{
-			"font"	"resource/fonts/GAMERIA.tff"
+			"font"	"resource/fonts/GAMERIA.ttf"
 			"name"	"GAMERIA"
 		}
 		"10"
 		{
-			"font"	"resource/fonts/Nokia Cellphone FC Small.tff"
+			"font"	"resource/fonts/Nokia Cellphone FC Small.ttf"
 			"name"	"Nokia Cellphone FC Small"
 		}
 		"11"
@@ -3158,10 +3158,10 @@ Scheme
 		}
 		"12"
 		{
-			"font"	"resource/fonts/Super Mario Bros. 2 Regular.tff"
+			"font"	"resource/fonts/Super Mario Bros. 2 Regular.ttf"
 			"name"	"Super Mario Bros. 2 Regular"
 		}
-		"14"
+		"13"
 		{
 			"font"	"resource/fonts/SteelfishRg-Regular.ttf"
 			"name"	"SteelfishRg-Regular"
