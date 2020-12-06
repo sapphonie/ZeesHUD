@@ -1,5 +1,5 @@
 ![ZEESHUD](https://zeesastrous.com/zeeshudlogo.png "zeeshud logo")
-**LAST UPDATED :** 16 NOV. 2020
+**LAST UPDATED :** 7 DEC. 2020
 **CURRENT RELEASE VERSION :** ALPHA I
 
 # What is ZeesHUD?
