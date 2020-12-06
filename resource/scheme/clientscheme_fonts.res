@@ -3148,7 +3148,7 @@ Scheme
 		}
 		"10"
 		{
-			"font"	"resource/fonts/nokiafc22.tff"
+			"font"	"resource/fonts/Nokia Cellphone FC Small.tff"
 			"name"	"Nokia Cellphone FC Small"
 		}
 		"11"
@@ -3158,7 +3158,7 @@ Scheme
 		}
 		"12"
 		{
-			"font"	"resource/fonts/smb2.tff"
+			"font"	"resource/fonts/Super Mario Bros. 2 Regular.tff"
 			"name"	"Super Mario Bros. 2 Regular"
 		}
 		"14"
