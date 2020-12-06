@@ -5,7 +5,7 @@
 		"ControlName"			"EditablePanel"
 		"fieldName"				"HudTournament"
 		"xpos"					"0"
-		"ypos"					"25"
+		"ypos"					"50"
 		"wide"					"f0"
 		"tall"					"480"
 		"proportionaltoparent"	"1"
@@ -409,12 +409,12 @@
 		"tall"			"16"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../HUD/tournament_panel_blu"
+		"image"			"replay/thumbnails/pixel_border_b"
 
-		"src_corner_height"		"15"
-		"src_corner_width"		"15"
-		"draw_corner_width"		"0"
-		"draw_corner_height"	"0"
+		"src_corner_height"		"24"
+		"src_corner_width"		"24"
+		"draw_corner_width"		"4"
+		"draw_corner_height"	"4"
 
 		if_mvm
 		{
@@ -436,7 +436,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"TournamentBLUELabel"
-		"font"			"HudFontSmall"
+		"font"			"SMB2_8"
 		"xpos"			"-5"
 		"ypos"			"0"
 		"zpos"			"1"
@@ -474,7 +474,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"TournamentBLUEStateLabel"
-		"font"			"HudFontSmallest"
+		"font"			"NOKIA_8"
 		"xpos"			"-5"
 		"ypos"			"0"
 		"zpos"			"1"
@@ -521,12 +521,12 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../HUD/tournament_panel_red"
+		"image"			"replay/thumbnails/pixel_border_r"
 
-		"src_corner_height"		"15"
-		"src_corner_width"		"15"
-		"draw_corner_width"		"0"
-		"draw_corner_height"	"0"
+		"src_corner_height"		"24"
+		"src_corner_width"		"24"
+		"draw_corner_width"		"4"
+		"draw_corner_height"	"4"
 
 		if_mvm
 		{
@@ -546,7 +546,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"TournamentREDLabel"
-		"font"			"HudFontSmall"
+		"font"			"SMB2_8"
 		"xpos"			"-5"
 		"ypos"			"0"
 		"zpos"			"1"
@@ -584,7 +584,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"TournamentREDStateLabel"
-		"font"			"HudFontSmallest"
+		"font"			"NOKIA_8"
 		"xpos"			"-5"
 		"ypos"			"0"
 		"zpos"			"1"
@@ -622,7 +622,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TournamentConditionLabel"
-		"font"			"HudFontSmallest"
+		"font"			"NOKIA_8"
 		"fgcolor"		"TanLight"
 		"xpos"			"c-125"
 		"ypos"			"16"
@@ -659,7 +659,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TournamentInstructionsLabel"
-		"font"			"HudFontSmallest"
+		"font"			"NOKIA_8"
 		"xpos"			"c-125"
 		"ypos"			"30"
 		"wide"			"250"

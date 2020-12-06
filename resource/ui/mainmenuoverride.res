@@ -380,10 +380,10 @@
 		"ypos"					"0"
 		"zpos"					"10000"
 		"wide"					"150"
-		"tall"					"30"
+		"tall"					"25"
 		"visible"				"0"
 		"PaintBackgroundType"	"1"
-		"border"				"ZeesBorderWhite"
+		"border"				"ZeesBorderWhiteOpaque"
 
 		"TipSubLabel"
 		{

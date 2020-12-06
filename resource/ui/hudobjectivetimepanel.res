@@ -29,10 +29,10 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"WaitingForPlayersLabel"
-		"xpos"				"25"
+		"xpos"				"0"
 		"ypos"				"20"
 		"zpos"				"5"
-		"wide"				"50"
+		"wide"				"100"
 		"tall"				"24"
 		"visible"			"0"
 		"enabled"			"1"
@@ -59,10 +59,10 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"OvertimeLabel"
-		"xpos"				"25"
+		"xpos"				"0"
 		"ypos"				"32"
 		"zpos"				"5"
-		"wide"				"50"
+		"wide"				"100"
 		"tall"				"24"
 		"visible"			"0"
 		"enabled"			"1"
@@ -71,7 +71,7 @@
 		"dulltext"			"0"
 		"brighttext"		"0"
 		"wrap"				"0"
-		"font"				"SMB2_12"
+		"font"				"SMB2_8"
 
 		if_match
 		{
@@ -101,7 +101,7 @@
 		"dulltext"			"0"
 		"brighttext"		"0"
 		"wrap"				"0"
-		"font"				"SMB2_12"
+		"font"				"SMB2_8"
 
 		if_match
 		{
@@ -131,7 +131,7 @@
 		"dulltext"			"0"
 		"brighttext"		"0"
 		"wrap"				"0"
-		"font"				"SMB2_12"
+		"font"				"SMB2_8"
 
 		if_match
 		{
@@ -161,7 +161,7 @@
 		"dulltext"			"0"
 		"brighttext"		"0"
 		"wrap"				"0"
-		"font"				"HudFontSmallest"
+		"font"				"SMB2_8"
 
 		if_match
 		{
