@@ -48,7 +48,7 @@
 		"font"			"NOKIA_8"
 		"xpos"			"11"
 		"ypos"			"1"
-		"zpos"			"4"
+		"zpos"			"7"
 		"wide"			"16"
 		"tall"			"26"
 		"autoResize"	"0"
