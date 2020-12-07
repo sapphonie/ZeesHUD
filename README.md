@@ -4,6 +4,8 @@
 # What is ZeesHUD?
 ZeesHUD is a work-in-progress stylish and ambitious HUD project for Team Fortress 2. The full first release will feature extensive customization options, ranging from colors to outright altering the style of an element.
 
+Join the ZeesHUD Discord server! https://discord.gg/4pJeqcJYYs
+
 **[Author's Website](https://zeesastrous.com)** // 
 **[YouTube](https://youtube.com/Zeesastrous)**
 
